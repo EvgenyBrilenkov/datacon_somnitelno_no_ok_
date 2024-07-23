@@ -1,0 +1,1285 @@
+,Uptake,Units,Temp.,Method,Type,Sequence,"Time, h","Conc., uM",target
+0,650.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQRRR,0.25,12.5,650.0
+1,31.25,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQRR,0.16666666666666666,12.5,31.25
+2,10.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQR,0.16666666666666666,12.5,10.0
+3,22.50,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,KKRRQRRR,0.16666666666666666,12.5,22.5
+4,20.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,KRRQRRR,0.16666666666666666,12.5,20.0
+5,1800.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rkkrrqrrr,0.25,12.5,1800.0
+6,2450.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRQRRKKR,0.25,12.5,2450.0
+7,3600.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrqrrkkr,0.25,12.5,3600.0
+8,16.25,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,AKKRRQRRR,0.16666666666666666,12.5,16.25
+9,32.5,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RAKRRQRRR,0.16666666666666666,12.5,32.5
+10,37.5,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKARRQRRR,0.16666666666666666,12.5,37.5
+11,20.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKARQRRR,0.16666666666666666,12.5,20.0
+12,30.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRAQRRR,0.16666666666666666,12.5,30.0
+13,132.5,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRARRR,0.16666666666666666,12.5,132.5
+14,32.5,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQARR,0.16666666666666666,12.5,32.5
+15,35.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQRAR,0.16666666666666666,12.5,35.0
+16,12.0,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RKKRRQRRA,0.16666666666666666,12.5,12.0
+17,100.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRRR,0.25,12.5,100.0
+18,500.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRRRR,0.25,12.5,500.0
+19,1225.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRRRRR,0.25,12.5,1225.0
+20,1700.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRRRRRR,0.25,12.5,1700.0
+21,2650.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,RRRRRRRRR,0.25,12.5,2650.0
+22,150.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrrr,0.25,12.5,150.0
+23,950.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrrrr,0.25,12.5,950.0
+24,3100.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrrrrr,0.25,12.5,3100.0
+25,4400.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrrrrrr,0.25,12.5,4400.0
+26,5125.00,Mean Fluorescence intensity,23.0,Flow cytometry,Cellular uptake,rrrrrrrrr,0.25,12.5,5125.0
+27,3176,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKCCKK,18.0,2.5,3176.0
+28,3344,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,MDCRWRWKCCKK,18.0,2.5,3344.0
+29,1909,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,DCRWRWKCCKK,18.0,2.5,1909.0
+30,4050,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKCCKK,18.0,2.5,4050.0
+31,1511,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,RWRWKCCKK,18.0,2.5,1511.0
+32,1516,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKCKK,18.0,2.5,1516.0
+33,1202,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKKK,18.0,2.5,1202.0
+34,100,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDRWRWKKK,18.0,2.5,100.0
+35,1043,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KDCRWRWKCCKK,18.0,2.5,1043.0
+36,1583,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KCRWRWKCCKK,18.0,2.5,1583.0
+37,1226,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRWRWKCCKK,18.0,2.5,1226.0
+38,1937,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,MDCRWRWKXCKK,18.0,2.5,1937.0
+39,1741,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,DCRWRWKXCKK,18.0,2.5,1741.0
+40,943,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,DCRWRWKCXKK,18.0,2.5,943.0
+41,2044,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKXCKK,18.0,2.5,2044.0
+42,1347,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKCXKK,18.0,2.5,1347.0
+43,1211,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,RWRWKXCKK,18.0,2.5,1211.0
+44,1256,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,MDCRWRWKXXKK,18.0,2.5,1256.0
+45,872,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,DCRWRWKXXKK,18.0,2.5,872.0
+46,1390,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKXXKK,18.0,2.5,1390.0
+47,405,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,RWRWKXXKK,18.0,2.5,405.0
+48,2172,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKCSKK,18.0,2.5,2172.0
+49,1867,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,SRWRWKCCKK,18.0,2.5,1867.0
+50,572,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,SRWRWKCSKK,18.0,2.5,572.0
+51,475,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,SRWRWKSCKK,18.0,2.5,475.0
+52,415,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKSSKK,18.0,2.5,415.0
+53,193,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,SRWRWKSSKK,18.0,2.5,193.0
+54,2656,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRFRWKCCKK,18.0,2.5,2656.0
+55,2476,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRFKCCKK,18.0,2.5,2476.0
+56,2569,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRFRFKCCKK,18.0,2.5,2569.0
+57,2109,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,crwrwkcckk,18.0,2.5,2109.0
+58,1713,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KCCKWRWRCK,18.0,2.5,1713.0
+59,1449,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,kcckwrwrck,18.0,2.5,1449.0
+60,1529,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CrWRWKCCKK,18.0,2.5,1529.0
+61,1229,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRwRWKCCKK,18.0,2.5,1229.0
+62,1304,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWrWKCCKK,18.0,2.5,1304.0
+63,1412,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRwKCCKK,18.0,2.5,1412.0
+64,1488,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CrwrwKCCKK,18.0,2.5,1488.0
+65,2376,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKCGCKK,18.0,2.5,2376.0
+66,3056,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KCGCRWRWKCGCKK,18.0,2.5,3056.0
+67,1922,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,CRWRWKCG,18.0,2.5,1922.0
+68,1943,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRWRWKCCKK,18.0,2.5,1943.0
+69,734,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRWRWKXCKK,18.0,2.5,734.0
+70,162,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRWRWKXXKK,18.0,2.5,162.0
+71,2816,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRWRWKCXKK,18.0,2.5,2816.0
+72,1542,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,MDCRWRWKCXKK,18.0,2.5,1542.0
+73,2335,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKCSKK,18.0,2.5,2335.0
+74,1188,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKSCKK,18.0,2.5,1188.0
+75,987,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDSRWRWKCCKK,18.0,2.5,987.0
+76,615,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRWKSSKK,18.0,2.5,615.0
+77,496,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDSRWRWKSSKK,18.0,2.5,496.0
+78,856,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDSRWRWKSCKK,18.0,2.5,856.0
+79,1244,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDSRWRWKCSKK,18.0,2.5,1244.0
+80,1272,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRWRPKCCKK,18.0,2.5,1272.0
+81,347,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRPRPKCCKK,18.0,2.5,347.0
+82,251,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRPRPKCCKK,18.0,2.5,251.0
+83,222,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRPRPKXCKK,18.0,2.5,222.0
+84,257,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDXRPRPKCXKK,18.0,2.5,257.0
+85,294,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRPRPKXCKK,18.0,2.5,294.0
+86,353,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KMDCRPRPKCXKK,18.0,2.5,353.0
+87,47.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,VNADIKATTVFGGKYVSLTTP,12.4,1000.0,47.5
+88,104.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,GKYVSLTTPKNPTKRRITPKDV,12.4,1000.0,104.5
+89,104.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,RSVTTEINTLFQTLTSIAEKVDP,12.4,1000.0,104.5
+90,626.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,AEKVDPVKLNLTLSAAAEALTGLGDK,12.4,1000.0,626.5
+91,155,Fluorescence intensity,37.0,Flow cytometry,Uptake,GLGDKFGESIVNANTVLDDLNSRMPQSRHDIQQL,12.4,1000.0,155.0
+92,47.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,ARTINAQQAELDSALLAAAGFGNTTADVFDRG,12.4,1000.0,47.5
+93,76,Fluorescence intensity,37.0,Flow cytometry,Uptake,ADVFDRGGPYLQRGVADLVPTATLLDTYSP,12.4,1000.0,76.0
+94,33.25,Fluorescence intensity,37.0,Flow cytometry,Uptake,LDTYSPELFCTIRNFYDADRPDRGAAA,12.4,1000.0,33.25
+95,123.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPKDVIDVRSVTTEINT,12.4,1000.0,123.5
+96,50,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPDDVIDVRSVTTEINT,12.4,1000.0,50.0
+97,1200,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPKKVIDVRSVTTEINT,12.4,1000.0,1200.0
+98,2650,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPKDVIDVRSVTTKINT,12.4,1000.0,2650.0
+99,50,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPKDVIDV,12.4,1000.0,50.0
+100,75,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKRRITPKDVIDVESVTTEINT,12.4,1000.0,75.0
+101,150,Fluorescence intensity,37.0,Flow cytometry,Uptake,TARRITPKDVIDVRSVTTEINT,12.4,1000.0,150.0
+102,100,Fluorescence intensity,37.0,Flow cytometry,Uptake,TKAARITPKDVIDVRSVTTEINT,12.4,1000.0,100.0
+103,1925,Fluorescence intensity,37.0,Flow cytometry,Uptake,HHHHHHTKRRITPKDVIDVRSVTTEINT,12.4,1000.0,1925.0
+104,790,Fluorescence intensity,37.0,Flow cytometry,Translocation,KLWMRWYSPTTRRYG,1.0,50.0,790.0
+105,650,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTTRRYG,1.0,50.0,650.0
+106,790,Fluorescence intensity,37.0,Flow cytometry,Translocation,KLWMRWYSATTRRYG,1.0,50.0,790.0
+107,850,Fluorescence intensity,37.0,Flow cytometry,Translocation,KLWMRWYSPWTRRYG,1.0,50.0,850.0
+108,650,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPWTRRYG,1.0,50.0,650.0
+109,530,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPWTRRWG,1.0,50.0,530.0
+110,220,Fluorescence intensity,37.0,Flow cytometry,Translocation,ALWMRWYSPTTRRYG,1.0,50.0,220.0
+111,800,Fluorescence intensity,37.0,Flow cytometry,Translocation,RAWMRWYSPTTRRYG,1.0,50.0,800.0
+112,750,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLAMRWYSPTTRRYG,1.0,50.0,750.0
+113,750,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWARWYSPTTRRYG,1.0,50.0,750.0
+114,90,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMAWYSPTTRRYG,1.0,50.0,90.0
+115,50,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRAYSPTTRRYG,1.0,50.0,50.0
+116,790,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWASPTTRRYG,1.0,50.0,790.0
+117,800,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYAPTTRRYG,1.0,50.0,800.0
+118,880,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPATRRYG,1.0,50.0,880.0
+119,810,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTARRYG,1.0,50.0,810.0
+120,370,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTTARYG,1.0,50.0,370.0
+121,150,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTTRAYG,1.0,50.0,150.0
+122,840,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTTRRAG,1.0,50.0,840.0
+123,860,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLWMRWYSPTTRRYA,1.0,50.0,860.0
+124,440,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLLMRLYSPTTRRYG,1.0,50.0,440.0
+125,830,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLFMRFYSPTTRRYG,1.0,50.0,830.0
+126,860,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLIMRIYSPTTRRYG,1.0,50.0,860.0
+127,590,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLVMRVYSPTTRRYG,1.0,50.0,590.0
+128,890,Fluorescence intensity,37.0,Flow cytometry,Translocation,RLYMRYYSPTTRRYG,1.0,50.0,890.0
+129,90,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,RRIRPRP,0.5,5.0,90.0
+130,200,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,RRIRPRPPRLPRPRP,0.5,5.0,200.0
+131,35,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,RRIRPRPPRLPRPRPRPLPFPRPG,0.5,5.0,35.0
+132,130,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,RRIRPRPPRLPRPRPRP,0.5,5.0,130.0
+133,60,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,PRPPRLPRPRPRPLPFPRPG,0.5,5.0,60.0
+134,90,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,PPRLPRPRPRPLPFPRPG,0.5,5.0,90.0
+135,100,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,RLPRPRPRPLPFPRPG,0.5,5.0,100.0
+136,80,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,PRPRPLPFPRPG,0.5,5.0,80.0
+137,555,Intracellular Fluorescence,37.0,Fluorescence spectroscopy,Uptake,PRPLPFPRPG,0.5,5.0,555.0
+138,100,Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,GTKMIFVGIKKKEERADLIAYLKKA,1.0,5.0,100.0
+139,4,Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,KKKEERADLIAYLKKA,1.0,5.0,4.0
+140,8,Fluorescence (fold/basal),37.0,Fluorescence spectroscopy,Translocation,KMIFVGIKKKEERA,1.0,5.0,8.0
+141,4.5,Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,KMIFVGIKKK,1.0,5.0,4.5
+142,7,Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,EKGKKIFIMK,1.0,5.0,7.0
+143,41,Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,KGKKIFIMK,1.0,5.0,41.0
+144,40,Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,10.0,40.0
+145,33.75,Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSC,0.5,10.0,33.75
+146,7.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSSIKR,0.5,10.0,7.5
+147,6.25,Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVR,0.5,10.0,6.25
+148,4.375,Fluorescence intensity,37.0,Flow cytometry,Uptake,FQWQRNMRKVRGPPVS,0.5,10.0,4.375
+149,7.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,QWQRNMRKVRGPPVSCIKR,0.5,10.0,7.5
+150,3.75,Fluorescence intensity,37.0,Flow cytometry,Uptake,QWQRNMRKVR,0.5,10.0,3.75
+151,70,Fluorescence intensity (%),37.0,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,0.5,5.0,70.0
+152,5,Fluorescence intensity (%),37.0,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,0.5,5.0,5.0
+153,10,Fluorescence intensity (%),37.0,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,0.5,5.0,10.0
+154,11.15,Fluorescence intensity,37.0,Flow cytometry,Cellular internalization,VELPPPVELPPPVELPPP,3.0,50.0,11.15
+155,5,Fluorescence intensity,37.0,Flow cytometry,Cellular internalization,VELPPPVELPPPVELPPP,3.0,50.0,5.0
+156,600,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,EEEAAGRKRKKRT,4.0,300.0,600.0
+157,140,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,EEE,4.0,300.0,140.0
+158,120,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,EEEAA,4.0,300.0,120.0
+159,280,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,EEEAAKKK,4.0,300.0,280.0
+160,580,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRKRKKRT,4.0,300.0,580.0
+161,100,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,FFFAAGRKRKKRT,1.0,300.0,100.0
+162,55,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NNNAAGRKRKKRT,1.0,300.0,55.0
+163,115,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,YYYAAGRKRKKRT,1.0,300.0,115.0
+164,7,Fluorescence intensity,37.0,Flow cytometry,Internalization,RGGRLSYSRRRFSTSTGR,1.0833333333333333,6.0,7.0
+165,7.5,Fluorescence intensity,37.0,Flow cytometry,Internalization,rggrlsysrrrfststgr,1.0833333333333333,6.0,7.5
+166,16,Fluorescence intensity,37.0,Flow cytometry,Internalization,RRLSYSRRRF,1.0833333333333333,6.0,16.0
+167,17.5,Fluorescence intensity,37.0,Flow cytometry,Internalization,rrlsysrrrf,1.0833333333333333,6.0,17.5
+168,62.5,Fluorescence intensity,37.0,Flow cytometry,Internalization,RGGRLAYLRRRWAVLGR,1.0833333333333333,3.0,62.5
+169,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VRLPPP,3.0,50.0,0.0
+170,100,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VRLPPPVRLPPP,3.0,50.0,100.0
+171,575,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VRLPPPVRLPPPVRLPPP,3.0,50.0,575.0
+172,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VHLPPP,3.0,50.0,0.0
+173,10,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VHLPPPVHLPPP,3.0,50.0,10.0
+174,160,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VHLPPPVHLPPPVHLPPP,3.0,50.0,160.0
+175,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VKLPPP,3.0,50.0,0.0
+176,200,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VKLPPPVKLPPP,3.0,50.0,200.0
+177,230,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VKLPPPVKLPPPVKLPPP,3.0,50.0,230.0
+178,74,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Internalization,KRVSRNKSEKKRR,1.0,4.0,74.0
+179,15.00,Mean Fluorescence intensity/mg protein,37.0,Fluorescence spectroscopy,Internalization,KLALKLALKALKAALKLAGC,6.0,2.0,15.0
+180,160,Mean Fluorescence intensity/mg protein,37.0,Fluorescence spectroscopy,Internalization,KLULKLULKULKAULKLUGC,6.0,2.0,160.0
+181,31,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRW,1.0,5.0,31.0
+182,81,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,WRWRWRWRW,1.0,5.0,81.0
+183,54,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,KETWWETWWTEWSQPKKKRKVC,4.0,500.0,54.0
+184,157,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,KETWWETWWTEWSQPKKKRKVC,4.0,500.0,157.0
+185,147,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQ,3.0,5.0,147.0
+186,37,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQ,3.0,5.0,37.0
+187,105,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQ,3.0,5.0,105.0
+188,26,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQ,3.0,5.0,26.0
+189,18,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQ,3.0,5.0,18.0
+190,1350,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQYTFGLKTSFNVQ,3.0,5.0,1350.0
+191,450,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQYTFGLKTSFNVQ,3.0,5.0,450.0
+192,375,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQYTFGLKTSFNVQ,3.0,5.0,375.0
+193,100,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQYTFGLKTSFNVQ,3.0,5.0,100.0
+194,50,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,YTFGLKTSFNVQYTFGLKTSFNVQ,3.0,5.0,50.0
+195,19000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CRGDK,0.5,5.0,19000.0
+196,700,Mean Fluorescence intensity/cell,37.0,Flow cytometry,Transfection,CHHRRRRHHC,4.0,4.5,700.0
+197,75,Fluorescence intensity,37.0,Flow cytometry,Uptake,TAMRAVDKLLLHLKKLFREGQFNRNFESIIICRDRT,1.0,2.0,75.0
+198,67.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,TAMRAVDKLLLHLKKLFREGQFNRNFESIIICRDRT,1.0,2.0,67.5
+199,260,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,RRRRRRRR,3.0,100000.0,260.0
+200,160,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,HHHHHHHHRRRRRRRR,3.0,100000.0,160.0
+201,195,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,HHHHHHHHRRRRRRRRRRRRRRR,3.0,100000.0,195.0
+202,187,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,HHHHHHHHHHHHRRRRRRRRRRRRRRR,3.0,100000.0,187.0
+203,220,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,HHHHHHHHHHHHHHHHRRRRRRRRRRRRRRR,3.0,100000.0,220.0
+204,211,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,HHHHHHHHHHHHHHHHHHHHRRRRRRRRRRRRRRR,3.0,100000.0,211.0
+205,492,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,VSRRRRRRGGRRRR,4.0,4.5,492.0
+206,93.2,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,VSRRRRRRGGRRRR,4.0,4.5,93.2
+207,100,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,100.0
+208,100,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,100.0
+209,100,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,100.0
+210,100,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,100.0
+211,52.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,52.5
+212,72.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,72.5
+213,55,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,55.0
+214,72.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,72.5
+215,75,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,75.0
+216,70,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,70.0
+217,72.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,72.5
+218,70,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,70.0
+219,57.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,57.5
+220,240,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,240.0
+221,95,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,95.0
+222,90,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,90.0
+223,132.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,132.5
+224,137.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,137.5
+225,200,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,200.0
+226,165,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,165.0
+227,460,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,460.0
+228,57.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,57.5
+229,87.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,87.5
+230,55,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,55.0
+231,85,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,85.0
+232,50,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,50.0
+233,75,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,75.0
+234,60,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,60.0
+235,87.5,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,0.5,5.0,87.5
+236,85,Median Normalized Fluorescence,37.0,Flow cytometry,Uptake,K-Hey-FQWQRNMRKVRGPPVS-Hey-IKR,0.5,5.0,85.0
+237,150,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRR,6.629761904761906,5309.534651404787,150.0
+238,20,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRR,6.629761904761906,5309.534651404787,20.0
+239,200,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRRSPRR,6.629761904761906,5309.534651404787,200.0
+240,30,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRRSPRR,6.629761904761906,5309.534651404787,30.0
+241,700,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRRKKKKSPRRKKKKSPRR,6.629761904761906,5309.534651404787,700.0
+242,38,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDSPRRKKKKSPRRKKKKSPRR,6.629761904761906,5309.534651404787,38.0
+243,750,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDGPRRKKKKGPRRKKKKGPRR,6.629761904761906,5309.534651404787,750.0
+244,37.5,Mean Fluorescence intensity/cell,35.051797040169134,Flow cytometry,Transfection,GRGDGPRRKKKKGPRRKKKKGPRR,6.629761904761906,5309.534651404787,37.5
+245,78.3,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,78.3
+246,16.6,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,16.6
+247,31.6,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,31.6
+248,10,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,10.0
+249,23.3,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,23.3
+250,4.16,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLRRRRRRRRC,2.0,1.0,4.16
+251,12.4,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRC,2.0,3.0,12.4
+252,9,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,IPLVVPLC,2.0,3.0,9.0
+253,5900,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRLRHLRHHYRRRWHRFRC,4.0,39.0,5900.0
+254,400,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CLLYWFRRRHRHHRRRHRRC,4.0,39.0,400.0
+255,3510,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,FRRRRQ,2.0,10.0,3510.0
+256,960,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRR,2.0,10.0,960.0
+257,290,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RKKRRQRRR,2.0,10.0,290.0
+258,400,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,2.0,10.0,400.0
+259,1850,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLR,3.0,10.0,1850.0
+260,250,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LLR,3.0,10.0,250.0
+261,750,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LLLR,3.0,10.0,750.0
+262,575,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LLLLR,3.0,10.0,575.0
+263,300,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LLLRR,3.0,10.0,300.0
+264,1200,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,IIIR,3.0,10.0,1200.0
+265,1150,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,VVVR,3.0,10.0,1150.0
+266,950,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLK,3.0,10.0,950.0
+267,1525,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLH,3.0,10.0,1525.0
+268,1675,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLE,3.0,10.0,1675.0
+269,1137,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLN,3.0,10.0,1137.0
+270,1550,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,LCLQ,3.0,10.0,1550.0
+271,3150,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,lclr,3.0,10.0,3150.0
+272,1675,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,lcl,3.0,10.0,1675.0
+273,750,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,icir,3.0,10.0,750.0
+274,500,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,vcvr,3.0,10.0,500.0
+275,1150,Fluorescence intensity,37.0,Fluorescence spectroscopy,Uptake,vlclr,3.0,10.0,1150.0
+276,85,Relative fluorescence,37.0,Fluoroskan plate reader,Uptake,EEEEEEEEPLGLAGRRRRRRRRN,1.0,20006.4,85.0
+277,86,Relative fluorescence,37.0,Fluoroskan plate reader,Uptake,EEEEEEEEPLGLAGRRRRRRRRN,1.0,20006.4,86.0
+278,9.6,Relative fluorescence,37.0,Fluoroskan plate reader,Uptake,EEEEEEEEPLGLAGRRRRRRRRN,1.0,20006.4,9.6
+279,96,Relative fluorescence,37.0,Fluoroskan plate reader,Uptake,EEEEEEEEPLGLAGRRRRRRRRN,1.0,20006.4,96.0
+280,147.3,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,2.0,147.3
+281,150.0,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,2.0,150.0
+282,105.2,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,2.0,105.2
+283,100.0,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,2.0,100.0
+284,221.0,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,1.0,2.0,221.0
+285,118.75,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,1.0,2.0,118.75
+286,105.2,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,1.0,2.0,105.2
+287,100.0,Relative fluorescence (%),37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,1.0,2.0,100.0
+288,884.2,Relative fluorescence (%),37.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,1.0,2.0,884.2
+289,462.5,Relative fluorescence (%),37.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,1.0,2.0,462.5
+290,105.2,Relative fluorescence (%),37.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,1.0,2.0,105.2
+291,100.0,Relative fluorescence (%),37.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,1.0,2.0,100.0
+292,53.3,Relative fluorescence,37.0,Immunocytochemistry,Transduction,RRRRRRR,24.0,1000.0,53.3
+293,4.7e+5,Fluorescence intensity,37.0,Flow cytometry,Penetration,GD(Abu)LPHLKLC,2.0,10.0,470000.0
+294,9.0e+4,Fluorescence intensity,37.0,Flow cytometry,Penetration,YGRKKRRQRRRC,2.0,10.0,90000.0
+295,1.3e+5,Fluorescence intensity,37.0,Flow cytometry,Penetration,RQIKIWFQNRRMKWKKC,2.0,10.0,130000.0
+296,1.4e+5,Fluorescence intensity,37.0,Flow cytometry,Penetration,RRRRRRRRRC,2.0,10.0,140000.0
+297,9500,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVRKKRRQRRR,1.0,20006.4,9500.0
+298,4500,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVRKKRRQRRR,1.0,20006.4,4500.0
+299,4500,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVRKKRRQRRR,1.0,20006.4,4500.0
+300,4800,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVKKKKKQKKK,1.0,20006.4,4800.0
+301,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVKKKKKQKKK,1.0,20006.4,3000.0
+302,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CELAGIGILTVKKKKKQKKK,1.0,20006.4,3000.0
+303,1431,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,KKLFKKILKKL,1.0,50.0,1431.0
+304,1829,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,KKLFKKILKKL,1.0,50.0,1829.0
+305,1789,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CREKA-KKLFKKILKKL,3.0,25.0,1789.0
+306,1300,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CREKA-KKLFKKILKKL,3.0,25.0,1300.0
+307,4272,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,KKLFKKILKKL,3.0,25.0,4272.0
+308,3966,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,CREKA-KKLFKKILKKL,3.0,25.0,3966.0
+309,13000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKKK,1.0,57.0,13000.0
+310,3650,Mean Fluorescence intensity,37.0,Flow cytometry/CLSM,Uptake,RRRRWWWW,1.0,5.0,3650.0
+311,1500,Relative fluorescence,37.0,Flow cytometry,Uptake,YGRKKRRQRRR,24.0,1000.0,1500.0
+312,2800,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Transduction,YGRKKRRQRRR,24.0,13.0,2800.0
+313,3900,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Transduction,YGRKKRRQRRRYGRKKRRQRRRYGRKKRRQRRR,24.0,13.0,3900.0
+314,15900,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Transduction,YGRKKRRQRRRYGRKKRRQRRRYGRKKRRQRRR,24.0,13.0,15900.0
+315,1.0,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILKKCRRDSDCPGACICRGNGYCGSGSD,1.0,8.0,1.0
+316,0.95,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILKKCRRDSDCPGACICRGNGWCGSGSD,1.0,8.0,0.95
+317,1.08,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILRRCRRDSDCPGACICRGNGYCGSGSD,1.0,8.0,1.08
+318,0.52,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILRRCRRDSDCPGACICRGNGWCGSGSD,1.0,8.0,0.52
+319,1.65,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILRRCRRDSDCPGACICRGNGYCGSGSR,1.0,8.0,1.65
+320,1.73,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPRILRRCRRDSDCPGACICRGNGYCGSGSK,1.0,8.0,1.73
+321,1.95,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GGVCPKILKKCRRDSDCPGACICRGNGYCGSGSD,1.0,8.0,1.95
+322,1.00,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRCTKSIPPICFPD,1.0,16.0,1.0
+323,1.17,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,grctksippicfpd,1.0,16.0,1.17
+324,1.04,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GACTKSIPPICFPD,1.0,16.0,1.04
+325,0.86,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRCTKSIPPICFPA,1.0,16.0,0.86
+326,1.13,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRCTKSIPPICWPD,1.0,16.0,1.13
+327,1.00,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRCTKSIPPICWPK,1.0,16.0,1.0
+328,1.26,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRCTRSIPPKCWPD,1.0,16.0,1.26
+329,1.13,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRXTKSIPPIXFPD,1.0,16.0,1.13
+330,0.82,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRXTKSIPPIXFPD,1.0,16.0,0.82
+331,872,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,VSRRRRRRGGRRRR,4.0,4.5,872.0
+332,153,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,VSRRRRRRGGRRRR,4.0,4.5,153.0
+333,64,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RXRRXRRXRRXR,4.0,10.0,64.0
+334,71,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RXRRXRRXRRXR,4.0,10.0,71.0
+335,85,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RXRRXRRXRRXR,4.0,10.0,85.0
+336,75,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RXRRXRRXRRXR,4.0,10.0,75.0
+337,31,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RXRRXRRXRRXR,4.0,10.0,31.0
+338,6000,Fluorescence intensity,37.0,Flow cytometry,Uptake,KLALKLALKALKAALKLA,0.5,1.0,6000.0
+339,3300,Fluorescence intensity,37.0,Flow cytometry,Uptake,RQIKIWFQNRRMKWKK,0.5,1.0,3300.0
+340,7500,Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRR,0.5,1.0,7500.0
+341,225,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR-c(RGDfK),4.0,39.0,225.0
+342,225,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR-c(RGDfK),4.0,39.0,225.0
+343,10.5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR-c(RGDfK),4.0,39.0,10.5
+344,100,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,4.0,39.0,100.0
+345,120,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,4.0,39.0,120.0
+346,11,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,4.0,39.0,11.0
+347,26,Fluorescence intensity,37.0,Flow cytometry,Uptake,KSTGKANKITITNDKGRLSK,18.0,5.0,26.0
+348,12.6,Fluorescence intensity,37.0,Flow cytometry,Uptake,CAYGRKKRRQRRR,4.0,39.0,12.6
+349,7,Fluorescence intensity,37.0,Flow cytometry,Uptake,CAYGRKKRRQRRR,4.0,39.0,7.0
+350,2.25,Fluorescence intensity,37.0,Flow cytometry,Uptake,CYGRKKRRQRRR,4.0,39.0,2.25
+351,400,Fluorescence intensity,25.0,Flow cytometry,Uptake,GWTLNSAGYLLGKINLKALAALAKKIL,2.0,4.0,400.0
+352,220,Fluorescence intensity,25.0,Flow cytometry,Uptake,GWTLNSAGYLLGKINLKALAALAKKIL,2.0,4.0,220.0
+353,80,Fluorescence intensity,25.0,Flow cytometry,Uptake,GWTLNSAGYLLGKINLKALAALAKKIL,2.0,4.0,80.0
+354,90,Fluorescence intensity,25.0,Flow cytometry,Uptake,GWTLNSAGYLLGKINLKALAALAKKIL,2.0,4.0,90.0
+355,50,Fluorescence intensity,25.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,2.0,4.0,50.0
+356,150,Fluorescence intensity,25.0,Flow cytometry,Uptake,AGYLLGKINLKALAALAKKIL,2.0,4.0,150.0
+357,931,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRGRRG,0.16666666666666666,10.0,931.0
+358,2750,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRR,0.16666666666666666,10.0,2750.0
+359,0,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRR,0.16666666666666666,10.0,0.0
+360,1527,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,RRRRRRRRR,24.0,1000.0,1527.0
+361,20.97,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Transfection,RRRRRRRRR,6.629761904761906,5309.534651404787,20.97
+362,627,Mean Fluorescence intensity,37.0,Flow cytometry,Transfection,rrrrrrrrr,24.0,1000.0,627.0
+363,18.60,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Transfection,rrrrrrrrr,6.629761904761906,5309.534651404787,18.6
+364,36.6,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,0.5,4.2,36.6
+365,68,Geo Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Uptake,RRRRRRRR,6.629761904761906,5309.534651404787,68.0
+366,94,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,2.0,94.0
+367,24.67,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,HHHRRRRRRRR,4.0,1.0,24.67
+368,171.18,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,HHHRRRRRRRR,4.0,1.0,171.18
+369,10,Mean Fluorescence intensity,37.0,,,YGRKKRRQRRR-C,1.0,20006.4,10.0
+370,10.7,Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,2.0,40.0,10.7
+371,1300,Normalized Mean Fluorescence intensity,23.8,Flow cytometry,Uptake,CKYGRKKRRQRRR,1.0,1.0,1300.0
+372,99.43,Fluorescence intensity,37.0,Flow cytometry,Uptake,AYGRKKRRQRRR,4.0,39.0,99.43
+373,83.79,Fluorescence intensity,37.0,Flow cytometry,Uptake,AYGRKKRRQRRR,4.0,39.0,83.79
+374,150,Fluorescence intensity,37.0,Flow cytometry,Uptake,AYGRKKRRQRRR,4.0,39.0,150.0
+375,152.5,Fluorescence intensity,37.0,Flow cytometry,Uptake,AYGRKKRRQRRR,4.0,39.0,152.5
+376,14,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,LLIILRRRIRKQAHAHSK,4.0,39.0,14.0
+377,15,Mean Fluorescence intensity / % FITC Positive cells,37.0,Flow cytometry,Uptake,LLHILRRSIRKQAHAIRK,4.0,39.0,15.0
+378,58,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,LLRILRRSIRRARRAIRR,4.0,39.0,58.0
+379,18,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,LLHILRRSIRRQAHAIRR,4.0,39.0,18.0
+380,15.82,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,INLKALAALAKKIL,1.0,5.0,15.82
+381,100.0,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,inlkalaalakkil,1.0,5.0,100.0
+382,9.762,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,LIKKALAALAKLNI,1.0,5.0,9.762
+383,7.990,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,likkalaalaklni,1.0,5.0,7.99
+384,82.21,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,INLKKLAKL(Aib)KKIL,1.0,5.0,82.21
+385,63.06,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,inlkklakl(Aib)kkil,1.0,5.0,63.06
+386,14.75,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,LIKK(Aib)LKALKKLNI,1.0,5.0,14.75
+387,23.23,Mean Fluorescence intensity,37.0,Fluorescence spectroscopy,Translocation,likk(Aib)lkalkklni,1.0,5.0,23.23
+388,378.0,Relative fluorescence (%),37.0,CLSM,Tumor accumulation,RRRRRRRRGC,24.0,1000.0,378.0
+389,932.0,Relative fluorescence (%),37.0,CLSM,Tumor accumulation,rrrrrrrrGC,24.0,1000.0,932.0
+390,424.0,Relative fluorescence (%),37.0,CLSM,Tumor accumulation,rrrrrrrrrrrrGC,24.0,1000.0,424.0
+391,54.54,Relative fluorescence,37.0,Fluorescence spectroscopy,Transduction,RRR,0.5,1.0,54.54
+392,61,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,FFLIPKGRRRRRRRRGC,0.25,1.0,61.0
+393,18.5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,LILIGRRRRRRRRGC,0.25,1.0,18.5
+394,22,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,FFGRRRRRRRGC,0.25,1.0,22.0
+395,100,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,FFFFGRRRRRRRRGC,0.25,1.0,100.0
+396,362.5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,rXrrXrrXrrXr,1.0,5.0,362.5
+397,300,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,rrrrrrrr,1.0,5.0,300.0
+398,3.5,Relative Median Fluorescence,37.0,Flow cytometry,Uptake,GCGGGYGRKKRRQRRR,4.0,4.5,3.5
+399,15,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Association,YGRKKRRQRRRGTALDWSWLQTE,0.5,5.0,15.0
+400,13,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Association,YGRKKRRQRRRGTALDWSWLQTE,0.5,5.0,13.0
+401,28.75,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Association,CGNVVRQGC-G-YGRK-KRRQRRR-G-TALDWSWLQTE,0.5,5.0,28.75
+402,2.25,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Association,CGNVVRQGC-G-YGRK-KRRQRRR-G-TALDWSWLQTE,0.5,5.0,2.25
+403,750,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRWWWWRRRR,1.0,10.0,750.0
+404,1400,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RWRRWRRWRRWR,1.0,10.0,1400.0
+405,1.89,Relative fluorescence,37.0,Flow cytometry,Uptake,YGRKKRPQRRR,3.0,10.0,1.89
+406,4,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,4.0
+407,39,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,39.0
+408,3,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,3.0
+409,1,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,1.0
+410,5,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,5.0
+411,6,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,6.0
+412,2,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,2.0
+413,0,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,DSLKSYWYLQKFSWR,3.0,10.0,0.0
+414,3,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,3.0
+415,2,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,2.0
+416,1,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,1.0
+417,0,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,0.0
+418,40,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,40.0
+419,3,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,3.0
+420,70,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,70.0
+421,0,Relative fluorescence,37.0,Fluorescent Microscopy,Penetration efficiencies,KRPTMRFRYTWNPMK,3.0,10.0,0.0
+422,56.8,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRR,1.0,8.0,56.8
+423,36,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,Nbtg-Nbtg-Nbtg-Nbtg-Nbtg-Nbtg-Nbtg-Nbtg,1.0,8.0,36.0
+424,11.2,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-Nspe-Nspe-NLys-Nspe-Nspe-NLys-Nspe-Nspe,1.0,8.0,11.2
+425,92.8,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-Nspe-Nspe-NLys-Nspe-Nspe-NLys-Nspe-Nspe-NLys-Nspe-Nspe,1.0,8.0,92.8
+426,23.2,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-Npm-Npm-NLys-Npm-Npm-NLys-Npm-Npm-NLys-Npm-Npm,1.0,8.0,23.2
+427,7.2,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-Nssb-Nssb-NLys-Nssb-Nssb-NLys-Nssb-Nssb-NLys-Nssb-Nssb,1.0,8.0,7.2
+428,12,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-NLys-Nspe-NLys-NLys-Nspe-NLys-NLys-Nspe-NLys-NLys-Nspe,1.0,8.0,12.0
+429,20,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-NLys-NLys-NLys-NLys-NLys-NLys-NLys-Nspe-Nspe-Nspe-Nspe,1.0,8.0,20.0
+430,3.2,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,NLys-NLys-NLys-NLys-NLys-NLys-NLys-NLys-NLeu-NLeu-NLeu-NLeu-Nleu,1.0,8.0,3.2
+431,98.4,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe,1.0,8.0,98.4
+432,92.8,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe-Nbtg-Nspe-Nspe,1.0,8.0,92.8
+433,95,Fluorescence intensity,37.0,CLSM,Uptake,NTCTWLKYHS,2.0,10.0,95.0
+434,10,Fluorescence intensity,37.0,CLSM,Uptake,CASGQQGLLKLC,2.0,10.0,10.0
+435,25,Fluorescence intensity,37.0,CLSM,Uptake,YNNFAYSVFL,2.0,10.0,25.0
+436,16,Fluorescence intensity,37.0,CLSM,Uptake,ECYPKKGQDP,2.0,10.0,16.0
+437,15,Fluorescence intensity,37.0,CLSM,Uptake,RHVYHVLLSQ,2.0,10.0,15.0
+438,15,Fluorescence intensity,37.0,CLSM,Uptake,HATKSQNINF,2.0,10.0,15.0
+439,10,Fluorescence intensity,37.0,CLSM,Uptake,YRDRFAFQPH,2.0,10.0,10.0
+440,19,Fluorescence intensity,37.0,CLSM,Uptake,IWRYSLASQQ,2.0,10.0,19.0
+441,19,Fluorescence intensity,37.0,CLSM,Uptake,YQKQAKIMCS,2.0,10.0,19.0
+442,20,Fluorescence intensity,37.0,CLSM,Uptake,VQLRRRWC,2.0,10.0,20.0
+443,15,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NII-Aib-PLL-Aib-PIC-NH2,2.0,10.0,15.0
+444,0,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NII-Aib-PLLAPIC-NH2,2.0,10.0,0.0
+445,5,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-ANII-Aib-PLL-Aib-PIC-NH2,2.0,10.0,5.0
+446,2.5,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NIIAPLL-Aib-PIC-NH2,2.0,10.0,2.5
+447,320,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NII-Aib-Aib-LL-Aib-Aib-IC-NH2,2.0,10.0,320.0
+448,20,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NII-Aib-PLL-Aib-Aib-IC-NH2,2.0,10.0,20.0
+449,18,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Uptake,CH3CO-Aib-NII-Aib-Aib-LL-Aib-PIC-NH2,2.0,10.0,18.0
+450,24,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,BRRRRRR,6.629761904761906,5309.534651404787,24.0
+451,44,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,BRRRRRRR,6.629761904761906,5309.534651404787,44.0
+452,72,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,BRRRRRRRR,6.629761904761906,5309.534651404787,72.0
+453,100,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,Ahx-RRRRRRRRR,6.629761904761906,5309.534651404787,100.0
+454,12,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRRRRE],6.629761904761906,5309.534651404787,12.0
+455,26,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRRRRRRE],6.629761904761906,5309.534651404787,26.0
+456,42,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRRRRRRRE],6.629761904761906,5309.534651404787,42.0
+457,124,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRRRRRRRRE],6.629761904761906,5309.534651404787,124.0
+458,148,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRRRRRRRRRE],6.629761904761906,5309.534651404787,148.0
+459,42,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KrrrrrrrE],6.629761904761906,5309.534651404787,42.0
+460,64,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KrrrrrrrrE],6.629761904761906,5309.534651404787,64.0
+461,70,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KrrrrrrrrE],6.629761904761906,5309.534651404787,70.0
+462,38,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRrRrRrE],6.629761904761906,5309.534651404787,38.0
+463,44,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KrRrRrRrE],6.629761904761906,5309.534651404787,44.0
+464,76,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[KRrRrRrRrE],6.629761904761906,5309.534651404787,76.0
+465,17,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[ERRRK]-[KRRRE],6.629761904761906,5309.534651404787,17.0
+466,20,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[ERRRK]-?A-[KRRRE],6.629761904761906,5309.534651404787,20.0
+467,33,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[ERRRK]-(?A)2-[KRRRE],6.629761904761906,5309.534651404787,33.0
+468,30,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-[ERRRK]-(?A)3-[KRRRE],6.629761904761906,5309.534651404787,30.0
+469,66,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-RRRR-[KRRRE],6.629761904761906,5309.534651404787,66.0
+470,95,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-RRR-[KRRRRE],6.629761904761906,5309.534651404787,95.0
+471,75,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-RR-[KRRRRRE],6.629761904761906,5309.534651404787,75.0
+472,72,Relative Mean Fluorescence intensity (%),35.051797040169134,Flow cytometry,Uptake,?A-R[KRRRRRRE],6.629761904761906,5309.534651404787,72.0
+473,65000,Fluorescence intensity,37.0,Flow cytometry,Transduction,FFAARTMIWYpGAWYKRI,0.5,4.2,65000.0
+474,68333,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRR,16.0,2.5,68333.0
+475,43333,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GGRRARRRRRR,16.0,2.5,43333.0
+476,80000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRMVSAL,16.0,2.5,80000.0
+477,48333,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,RKKRRQRRR,16.0,2.5,48333.0
+478,45833,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRPPQRKC,16.0,2.5,45833.0
+479,72500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YGRKKRRQRRR,16.0,2.5,72500.0
+480,73333,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKRKKRT,16.0,2.5,73333.0
+481,72500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,KKKKKKKKK,16.0,2.5,72500.0
+482,34166,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,rrrrrrrrr ,16.0,2.5,34166.0
+483,48333,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRPQ,16.0,2.5,48333.0
+484,56666,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,CRGDK,16.0,2.5,56666.0
+485,39166,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,AAAWFW,16.0,2.5,39166.0
+486,37500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,CRGDKGDPC,16.0,2.5,37500.0
+487,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YTFGLKTSFNVQYTFGLKTSFNVQ,16.0,2.5,5000.0
+488,41666,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,TVDNPASTTNKDKLFAVRK,16.0,2.5,41666.0
+489,55000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,TWLKYH,16.0,2.5,55000.0
+490,10000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YTFGLKTSFNVQ,16.0,2.5,10000.0
+491,30000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,KLPVM,16.0,2.5,30000.0
+492,40000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,MIIYRDLISH,16.0,2.5,40000.0
+493,0,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,MVRRFLVTLRIRRACGPPRVRV,16.0,2.5,0.0
+494,3500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRR,16.0,2.5,3500.0
+495,2500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GGRRARRRRRR,16.0,2.5,2500.0
+496,7000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRMVSAL,16.0,2.5,7000.0
+497,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,RKKRRQRRR,16.0,2.5,3000.0
+498,8000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRPPQRKC,16.0,2.5,8000.0
+499,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YGRKKRRQRRR,16.0,2.5,3000.0
+500,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKRKKRT,16.0,2.5,5000.0
+501,9000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,KKKKKKKKK,16.0,2.5,9000.0
+502,3500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,rrrrrrrrr ,16.0,2.5,3500.0
+503,7000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,GRKKRRQRRRPQ,16.0,2.5,7000.0
+504,16500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,CRGDK,16.0,2.5,16500.0
+505,20000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,AAAWFW,16.0,2.5,20000.0
+506,2000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,CRGDKGDPC,16.0,2.5,2000.0
+507,6000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YTFGLKTSFNVQYTFGLKTSFNVQ,16.0,2.5,6000.0
+508,16000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,TVDNPASTTNKDKLFAVRK,16.0,2.5,16000.0
+509,11000,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,TWLKYH,16.0,2.5,11000.0
+510,5500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,YTFGLKTSFNVQ,16.0,2.5,5500.0
+511,7500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,KLPVM,16.0,2.5,7500.0
+512,4500,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,MIIYRDLISH,16.0,2.5,4500.0
+513,0,Mean Fluorescence intensity,37.0,Flow cytometry,Penetration efficiencies,MVRRFLVTLRIRRACGPPRVRV,16.0,2.5,0.0
+514,0.55,Fluorescence intensity,37.0,Fluorescent Microscopy,Uptake,TSPLNIHNGQKL,2.0,10.0,0.55
+515,1,Fluorescence intensity,37.0,Fluorescent Microscopy,Uptake,TSPLNIHNGQKL,2.0,10.0,1.0
+516,0.3,Fluorescence intensity,37.0,Fluorescent Microscopy,Uptake,NQHSKNTLLIGP,2.0,10.0,0.3
+517,4.5,Fluorescence intensity,37.0,Fluorescent Microscopy,Uptake,LPNSNHIKQGL,2.0,10.0,4.5
+518,1.7,Fluorescence intensity,37.0,Fluorescent Microscopy,Uptake,TLPNSNHIKQGL,2.0,10.0,1.7
+519,7750,Mean Fluorescence intensity,37.0,Flow cytometry,Internalization,MALGPCMLLLLLLLGLRLPGVWAPPRRRRRRRRR,24.0,1000.0,7750.0
+520,0.175E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,FRRRRQ,0.5,1.0,0.000175
+521,0.4E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,FRRRRQ,0.5,1.0,0.0004
+522,0.4E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,MGPSQPTYPGDDAPVRDLIRFYRDLRRYLNVVTRHRY,0.5,1.0,0.0004
+523,0.725E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,MRRRRRRR,0.5,1.0,0.000725
+524,0.75E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,MLEPGEKPYKCPECGKSFSASAALVAHQRTHTGKKTS,0.5,1.0,0.00075
+525,1.4E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,MRQIKIWFQNRRMKWKK,0.5,1.0,0.0014
+526,2.125E-3,Average Median Fluorescence intensity,37.0,Flow cytometry,Uptake,MYSCNVCGKAFVLSRHLNRHLRVHRRAT,0.5,1.0,0.002125
+527,18400,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,KQPRIKRKK,22.0,5.0,18400.0
+528,17500,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,LKKRRKLPKKKPIRNEQ,22.0,5.0,17500.0
+529,23640,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,KKYRGRKRHPR,22.0,5.0,23640.0
+530,21370,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,APKRKKLKKRF,22.0,5.0,21370.0
+531,18640,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRKAARAPGRRKQ,22.0,5.0,18640.0
+532,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,HDLPKGG,22.0,5.0,5000.0
+533,9320,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,AGSHRRL,22.0,5.0,9320.0
+534,285000,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRWRRWNRFNRRRCR,0.5,2.5,285000.0
+535,161600,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRWRRWNRFNRRRCR,0.5,2.5,161600.0
+536,1037500,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,RRWRRWNRFNRRRCR,0.5,2.5,1037500.0
+537,158.75,Relative fluorescence (%),37.0,Immunofluorescence analysis,Cellular uptake,GRKKRRQRRRPQ,2.0,100000.0,158.75
+538,117.5,Relative fluorescence (%),37.0,Immunofluorescence analysis,Cellular uptake,KETWWETWWTEWSQPKKKRKV,2.0,100000.0,117.5
+539,110.0,Relative fluorescence (%),37.0,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,2.0,100000.0,110.0
+540,120.0,Relative fluorescence (%),37.0,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,2.0,100000.0,120.0
+541,177.5,Relative fluorescence (%),37.0,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,2.0,100000.0,177.5
+542,3800,Relative Mean Fluorescence intensity,37.0,Flow cytometry,Relative uptake,CRQIKIWFQNRRMKWKK,2.0,21.4,3800.0
+543,26,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,AGYLLGKLLLAAAALLL,2.0,21.4,26.0
+544,10,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRR,2.0,21.4,10.0
+545,2,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,rrrrrrrrr,2.0,21.4,2.0
+546,10,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,2.0,21.4,10.0
+547,34,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,AGYLLGKLLLAAAALLL,2.0,21.4,34.0
+548,6,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRR,2.0,21.4,6.0
+549,3.5,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,rrrrrrrrr,2.0,21.4,3.5
+550,4,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,2.0,21.4,4.0
+551,36,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,AGYLLGKLLLAAAALLL,2.0,21.4,36.0
+552,5,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,RRRRRRRRR,2.0,21.4,5.0
+553,4,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,rrrrrrrrr,2.0,21.4,4.0
+554,4,Median Fluorescence intensity,37.0,Flow cytometry,Uptake,KCFQWQRNMRKVRGPPVSCIKR,2.0,21.4,4.0
+555,3600,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,3600.0
+556,1600,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,1600.0
+557,2100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,2100.0
+558,2550,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,2550.0
+559,3900,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,3900.0
+560,1200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,1200.0
+561,750,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,750.0
+562,875,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-Cys,4.0,100.0,875.0
+563,180,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,2.0,1.0,180.0
+564,180,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,6.0,1.0,180.0
+565,30,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,24.0,1.0,30.0
+566,30,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,2.0,1.0,30.0
+567,35,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,6.0,1.0,35.0
+568,25,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,24.0,1.0,25.0
+569,70,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,70.0
+570,135,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,135.0
+571,120,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,120.0
+572,30,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,30.0
+573,45,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,45.0
+574,60,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,60.0
+575,50,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,50.0
+576,70,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,70.0
+577,60,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,60.0
+578,18,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,2.0,1.0,18.0
+579,12,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,6.0,1.0,12.0
+580,1,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRRRRRRRR,24.0,1.0,1.0
+581,5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,2.0,1.0,5.0
+582,5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,6.0,1.0,5.0
+583,1,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRLRRLRRL,24.0,1.0,1.0
+584,15,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,15.0
+585,22,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,22.0
+586,11,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,11.0
+587,5,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,5.0
+588,11,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,11.0
+589,10,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,10.0
+590,20,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,2.0,1.0,20.0
+591,40,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,6.0,1.0,40.0
+592,10,Mean Fluorescence intensity,37.0,Flow cytometry,Uptake,GRRXRRXRRX,24.0,1.0,10.0
+593,250,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,5.0,250.0
+594,260,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,10.0,260.0
+595,350,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,15.0,350.0
+596,400,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,20.0,400.0
+597,450,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,30.0,450.0
+598,500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRWRWKCCKK,2.0,40.0,500.0
+599,50,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-EIWIAQELRRIGDEFNAYYARLL-C-C-LLRAYYANFEDGIRRLEQAIWIE-RRRQRRKKR,0.5,5.0,50.0
+600,90,Mean Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-EIWIAQELRRIGDEFNAYYARLL-C,2.2,10.0,90.0
+601,25,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,stearyl-HHHHHHHHHHHHHHHH-RRRRRRRR-NH2,6.629761904761906,5309.534651404787,25.0
+602,15,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,stearyl-HHHHHHHHHHHHHHHH-RRRRRRRR-NH3,6.629761904761906,5309.534651404787,15.0
+603,18000,Fluorescence intensity,37.0,Flow cytometry,Antigen Uptake,CWWRRRRRRRRCRRRRRRRRCRRRRRRRRC,4.0,4.5,18000.0
+604,50,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KVRVRVRVDPPTRVRERVKC,24.0,10.0,50.0
+605,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,120.0
+606,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,100.0
+607,200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,200.0
+608,300,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,300.0
+609,500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,500.0
+610,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,100.0
+611,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,120.0
+612,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,120.0
+613,130,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,130.0
+614,130,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RWRWRWRWRWKRWRWRWRWRW,3.0,10.0,130.0
+615,800,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-KKKKKRFSFKKSFKLSGFSFKKNKK,1.0,5.0,800.0
+616,750,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-KKKKKRFSFKKSFKLSGFSFKKNKK,1.0,5.0,750.0
+617,750,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-KKKKKRFSFKKSFKLSGFSFKKNKK,1.0,5.0,750.0
+618,900,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-KKKKKRFSFKKSFKLSGFSFKKNKK,1.0,5.0,900.0
+619,2.60E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrc,4.0,0.5,260000.0
+620,2.80E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrc,4.0,1.0,280000.0
+621,4.80E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrc,4.0,2.0,480000.0
+622,1.30E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrkc,4.0,0.25,130000.0
+623,1.50E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrkc,4.0,0.5,150000.0
+624,3.50E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,rrrrrrrrkc,4.0,1.0,350000.0
+625,1.00E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRXRRRR,24.0,1000.0,100.0
+626,1.00E+00,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,5.0,1.0
+627,0,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,1.0,0.0
+628,1000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,1.0,1000.0
+629,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,1.0,2500.0
+630,11000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,1.0,11000.0
+631,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,1.0,2500.0
+632,100,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,1.0,100.0
+633,300,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,1.0,300.0
+634,350,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,1.0,350.0
+635,1100,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,1.0,1100.0
+636,200,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,0.5,1.0,200.0
+637,500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,10.0,500.0
+638,600,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,10.0,600.0
+639,1500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,10.0,1500.0
+640,1000,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,10.0,1000.0
+641,3500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,20.0,3500.0
+642,3500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,20.0,3500.0
+643,2500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,20.0,2500.0
+644,2000,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,20.0,2000.0
+645,3000,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,30.0,3000.0
+646,3200,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,30.0,3200.0
+647,4000,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,30.0,4000.0
+648,3750,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,30.0,3750.0
+649,4750,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,40.0,4750.0
+650,5500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,40.0,5500.0
+651,3500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,40.0,3500.0
+652,5400,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,40.0,5400.0
+653,5800,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,50.0,5800.0
+654,6600,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,50.0,6600.0
+655,7500,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KRKIFLRCKILV,4.0,50.0,7500.0
+656,7000,Hoechst fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,VLIKCRLFIKRK,4.0,50.0,7000.0
+657,1700,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-RKRRQTSMTDFYHSKRRLIFS,1.0,5.0,1700.0
+658,1400,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-RKRRQTSMTDFYHSKRRLIFS,1.0,5.0,1400.0
+659,1400,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-RKRRQTSMTDFYHSKRRLIFS,1.0,5.0,1400.0
+660,1000,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-RKRRQTSMTDFYHSKRRLIFS,1.0,5.0,1000.0
+661,800,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,(Acp)-RKRRQTSMTDFYHSKRRLIFS,1.0,5.0,800.0
+662,7,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR,4.0,39.0,7.0
+663,12,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR,4.0,39.0,12.0
+664,40,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR,4.0,4.5,40.0
+665,45,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR,4.0,4.5,45.0
+666,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,10.0
+667,17,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,17.0
+668,8,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,8.0
+669,25,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,25.0
+670,3,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,3.0
+671,3,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,3.0
+672,8,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,8.0
+673,8,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAKA,24.0,1000.0,8.0
+674,15,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,15.0
+675,40,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,40.0
+676,13,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,13.0
+677,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,10.0
+678,20,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,20.0
+679,20,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,20.0
+680,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,18.0
+681,36,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CDAATATRGRSAASRPTERPRAPARSASRPRRPVD,24.0,1000.0,36.0
+682,5,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,5.0
+683,6,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,6.0
+684,4,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,4.0
+685,22,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,22.0
+686,2,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,2.0
+687,8,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,8.0
+688,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,18.0
+689,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CYGRKKRRQRRR,24.0,1000.0,10.0
+690,15,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,15.0
+691,20,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,20.0
+692,21,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,21.0
+693,20,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,20.0
+694,3,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,3.0
+695,8,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,8.0
+696,15,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,15.0
+697,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CGALFLGWLGAAGSTMGA,24.0,1000.0,10.0
+698,30,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,30.0
+699,75,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,75.0
+700,50,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,50.0
+701,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,18.0
+702,26,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,26.0
+703,30,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,30.0
+704,45,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,45.0
+705,50,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CPMLKE,24.0,1000.0,50.0
+706,40,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,40.0
+707,90,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,90.0
+708,40,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,40.0
+709,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,18.0
+710,55,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,55.0
+711,100,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,100.0
+712,20,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,20.0
+713,40,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CLGTYTQDFNKFHTFPQTAIGVGAP,24.0,1000.0,40.0
+714,5,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,5.0
+715,6,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,6.0
+716,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,10.0
+717,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,18.0
+718,2,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,2.0
+719,4,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,4.0
+720,3,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,3.0
+721,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CVTVLALGALAGVGVG,24.0,1000.0,18.0
+722,6,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,6.0
+723,10,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,10.0
+724,15,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,15.0
+725,18,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,18.0
+726,5,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,5.0
+727,5,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,5.0
+728,5,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,5.0
+729,23,Microscopic fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,CAAVALLPAVLLAHLLAP,24.0,1000.0,23.0
+730,400,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHH,24.0,5.0,400.0
+731,1000,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHH,24.0,5.0,1000.0
+732,1500,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHH,24.0,5.0,1500.0
+733,2800,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,24.0,5.0,2800.0
+734,1000,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHH,24.0,5.0,1000.0
+735,1100,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHH,24.0,5.0,1100.0
+736,3000,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHH,24.0,5.0,3000.0
+737,2900,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,24.0,5.0,2900.0
+738,800,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHH,24.0,5.0,800.0
+739,2000,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHH,24.0,5.0,2000.0
+740,6000,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHH,24.0,5.0,6000.0
+741,10100,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,24.0,5.0,10100.0
+742,180,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHH,6.0,2.0,180.0
+743,350,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,6.0,2.0,350.0
+744,150,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHH,1.0,2.0,150.0
+745,380,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,1.0,2.0,380.0
+746,100,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHH,1.0,0.5,100.0
+747,160,Fluorescence intensity,27.0,CLSM,Cellular uptake,HHHHHHHHHHHHHHHHHHHH,1.0,0.5,160.0
+748,1.50E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,5.0,1500.0
+749,1.00E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,10.0,10000.0
+750,1.70E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,25.0,17000.0
+751,1.60E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,50.0,16000.0
+752,1.80E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,5.0,180.0
+753,1.20E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,10.0,1200.0
+754,1.80E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,25.0,1800.0
+755,1.90E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,50.0,1900.0
+756,1.20E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,5.0,1200.0
+757,1.50E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,10.0,1500.0
+758,1.00E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,25.0,10000.0
+759,1.10E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,50.0,11000.0
+760,1.70E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,5.0,170.0
+761,1.90E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,10.0,190.0
+762,1.10E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,25.0,1100.0
+763,1.30E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,50.0,1300.0
+764,1.40E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,5.0,1400.0
+765,1.50E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,10.0,1500.0
+766,23012,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,25.0,23012.0
+767,1.00E+04,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELNGKPILFF,2.0,50.0,10000.0
+768,1.30E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,5.0,130.0
+769,1.50E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,10.0,150.0
+770,1.80E+02,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,25.0,180.0
+771,1.00E+03,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIASHLLAYFFTELN,2.0,50.0,1000.0
+772,264.6,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GRKKRRQRRK,3.2,0.2,264.6
+773,209.00,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GRKKRRQRRK,1.8,2.0,209.0
+774,210.33,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RNQRKTVRCFRCRQAGHWISDCRLKSK,3.2,0.2,210.33
+775,1800.33,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RNQRKTVRCFRCRQAGHWISDCRLKSK,1.8,2.0,1800.33
+776,174.67,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GRKKRRQRRK,3.2,0.2,174.67
+777,231.00,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GRKKRRQRRK,1.8,2.0,231.0
+778,240.00,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RNQRKTVRCFRCRQAGHWISDCRLKSK,3.2,0.2,240.0
+779,4985.67,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RNQRKTVRCFRCRQAGHWISDCRLKSK,1.8,2.0,4985.67
+780,0.65,Relative Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,VSRRRRRRGGRRRRC,1.0,20006.4,0.65
+781,1.35,Relative Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,VSRRRRRRGGRRRRC,3.0,10.0,1.35
+782,2.6,Relative Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,VSRRRRRRGGRRRRC,6.0,15.4,2.6
+783,1100,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KARKKKLNKKGRKMAGRKRGRPKK,1.0,2.5,1100.0
+784,1400,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KARKKKLNKKGRKMAGRKRGRPKK,1.0,5.0,1400.0
+785,1450,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KARKKKLNKKGRKMAGRKRGRPKK,1.0,7.5,1450.0
+786,1900,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KARKKKLNKKGRKMAGRKRGRPKK,1.0,10.0,1900.0
+787,200,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KALGISYGRKK,1.0,2.5,200.0
+788,100,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KALGISYGRKK,1.0,5.0,100.0
+789,300,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KALGISYGRKK,1.0,7.5,300.0
+790,300,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,KALGISYGRKK,1.0,10.0,300.0
+791,690,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MTYPRRRFRRRRHRPRS,0.5,6.0,690.0
+792,580,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MTYPRRRFRRRRHRPRS,0.5,6.0,580.0
+793,750,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MTYPRRRFRRRRHRPRS,0.5,6.0,750.0
+794,8,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,1.0,8.0
+795,7,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,10.0,7.0
+796,32,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,25.0,32.0
+797,28,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,50.0,28.0
+798,7,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,1.0,7.0
+799,12,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,10.0,12.0
+800,50,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,25.0,50.0
+801,53,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,50.0,53.0
+802,5,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,1.0,5.0
+803,22,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,10.0,22.0
+804,58,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,25.0,58.0
+805,75,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,GRKKRRQRRR,1.0,50.0,75.0
+806,11,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,1.0,11.0
+807,18,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,10.0,18.0
+808,12,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,25.0,12.0
+809,12,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,50.0,12.0
+810,8,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,1.0,8.0
+811,17,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,10.0,17.0
+812,13,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,25.0,13.0
+813,13,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,50.0,13.0
+814,10,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,1.0,10.0
+815,27,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,10.0,27.0
+816,26,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,25.0,26.0
+817,25,Relative Median Fluorescence,4.0,Flow cytometry,Cellular uptake,RRMKWKK,1.0,50.0,25.0
+818,1,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YGRKKRRQRRRPPQG,1.0,4.0,1.0
+819,0.2,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YGGGKGGQGGGPPQG,1.0,4.0,0.2
+820,0.3,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CPKILKKCRRDSDCPGACICRGNGYCGSGSDEETGEGGV,1.0,4.0,0.3
+821,0.4,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CPFWRRRRCKRDSDCPGACICRGNGYCGSGCDEETGECGV,1.0,4.0,0.4
+822,70000,Relative fluorescence,4.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,10.0,70000.0
+823,50000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.2,10.0,50000.0
+824,300000,Relative fluorescence,4.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEKGLRKRLRKFRNKIKEK,2.0,10.0,300000.0
+825,600000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEKGLRKRLRKFRNKIKEK,2.2,10.0,600000.0
+826,100000,Relative fluorescence,4.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.0,10.0,100000.0
+827,200000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEK,2.2,10.0,200000.0
+828,1800000,Relative fluorescence,4.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEKGLRKRLRKFRNKIKEK,2.0,10.0,1800000.0
+829,1500000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,GLRKRLRKFRNKIKEKGLRKRLRKFRNKIKEK,2.2,10.0,1500000.0
+830,20,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GPXGPXGPXGPRGPRGPRGPXGPXGPXGP,3.0,10.0,20.0
+831,14,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRRR,3.0,10.0,14.0
+832,600,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,600.0
+833,900,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,900.0
+834,1300,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,1300.0
+835,600,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,600.0
+836,1500,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,1500.0
+837,1600,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,1600.0
+838,1500,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,1500.0
+839,1000,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NVFKGNTISDKISFNFSDK,4.2,50.0,1000.0
+840,300000,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRWRRWNRFNRRRCR,6.5,2.5,300000.0
+841,200000,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRWRRWNRFNRRRCR,6.5,2.5,200000.0
+842,1100000,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRWRRWNRFNRRRCR,6.5,2.5,1100000.0
+843,25000,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRWRRWNRFNRRRCR,1.0,5.0,25000.0
+844,0,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,FITC-GRKKRRQRRR-NH2,24.0,5.0,0.0
+845,115,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,M-Rho-GRKKRRQRRR-NH2,24.0,5.0,115.0
+846,175,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,His6-GRKKRRQRRR-NH2,24.0,5.0,175.0
+847,85,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,FITC-GRKKRRQRRR-NH2,24.0,5.0,85.0
+848,10,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,M-Rho-GRKKRRQRRR-NH2,24.0,5.0,10.0
+849,100,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,His6-GRKKRRQRRR-NH2,24.0,5.0,100.0
+850,0,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRPPWLRLDIRR,24.0,1.0,0.0
+851,5,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRPPWLRLDIRR,24.0,5.0,5.0
+852,2,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRPPWLRLDIRR,24.0,10.0,2.0
+853,40,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRPPWLRLDIRRK,24.0,1.0,40.0
+854,10,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRPPWLRLDIRRK,24.0,5.0,10.0
+855,120,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRPPWLRLDIRRK,24.0,10.0,120.0
+856,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK,4.0,39.0,120.0
+857,30,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK,4.0,39.0,30.0
+858,110,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK,4.0,39.0,110.0
+859,83,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,83.0
+860,80,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,80.0
+861,22,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,22.0
+862,20,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,20.0
+863,22,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX/CYGGRGNG,24.0,10.0,22.0
+864,40,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX/CYGGRGNG,24.0,10.0,40.0
+865,82,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,82.0
+866,85,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX,24.0,10.0,85.0
+867,80,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX/CYGGRGNG,24.0,10.0,80.0
+868,82,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-DOX/CYGGRGNG,24.0,10.0,82.0
+869,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGWPPPPPPPPPGGHHHHHH,9.6,100000.0,0.0
+870,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGWPPPPPPPPPGGHHHHHH,1.0,100000.0,0.0
+871,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGWPPPPPPPPPGGHHHHHH,4.0,100000.0,0.0
+872,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGWPPPPPPPPPGGHHHHHH,8.0,100000.0,0.0
+873,1.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGWPPPPPPPPPGGHHHHHH,24.0,100000.0,100000.0
+874,5.00E+04,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGPPPPPPPPPGRRRRRRRRRFGPPPPPPPPPGWGHHHHHH,9.6,100000.0,50000.0
+875,1.50E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGPPPPPPPPPGRRRRRRRRRFGPPPPPPPPPGWGHHHHHH,1.0,100000.0,150000.0
+876,1.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGPPPPPPPPPGRRRRRRRRRFGPPPPPPPPPGWGHHHHHH,4.0,100000.0,100000.0
+877,5.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGPPPPPPPPPGRRRRRRRRRFGPPPPPPPPPGWGHHHHHH,8.0,100000.0,500000.0
+878,3.80E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGPPPPPPPPPGRRRRRRRRRFGPPPPPPPPPGWGHHHHHH,24.0,100000.0,380000.0
+879,0,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,9.6,100000.0,0.0
+880,8.00E+04,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,1.0,100000.0,80000.0
+881,1.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,4.0,100000.0,100000.0
+882,2.30E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,8.0,100000.0,230000.0
+883,1.30E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,24.0,100000.0,130000.0
+884,1.00E+04,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,9.6,100000.0,10000.0
+885,2.20E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,1.0,100000.0,220000.0
+886,6.80E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,4.0,100000.0,680000.0
+887,3.50E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,8.0,100000.0,350000.0
+888,2.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,24.0,100000.0,200000.0
+889,1.00E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,9.6,100000.0,100000.0
+890,1.90E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,1.0,100000.0,190000.0
+891,4.40E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,4.0,100000.0,440000.0
+892,1.80E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,RRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGRRRRRRRRRFGWPPPPPPPPPGGHHHHHH,8.0,100000.0,180000.0
+893,9.50E+05,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,REDVYGRKKRRQRRRPKKKRKV,24.0,100000.0,950000.0
+894,350,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VSRRRRRRGGRRRRGGGSYARVRRRGPRRGYARVRRRGPRR,1.0,2.5,350.0
+895,1100,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VSRRRRRRGGRRRRGGGSYARVRRRGPRRGYARVRRRGPRR,1.0,5.0,1100.0
+896,1350,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VSRRRRRRGGRRRRGGGSYARVRRRGPRRGYARVRRRGPRR,1.0,7.5,1350.0
+897,1400,Fluorescence intensity,37.0,Fluorescent Microscopy,Cellular uptake,VSRRRRRRGGRRRRGGGSYARVRRRGPRRGYARVRRRGPRR,1.0,10.0,1400.0
+898,15000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,CF-Cys-BLGTYTQDFNXFHTFPQTAIGVGAP,2.2,10.0,15000.0
+899,52000,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,CF-Cys-BLGTYTQDFNXFHTFPQTAIGVGAP,4.2,50.0,52000.0
+900,14110,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CREKAPLGLAGRKKRRQRRRC,1.0,10.0,14110.0
+901,2569.5,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CREKA,1.0,10.0,2569.5
+902,6000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCR,1.0,2.0,6000.0
+903,1000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCRG,1.0,2.0,1000.0
+904,5000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCSRGSCYRRCRG,1.0,2.0,5000.0
+905,500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCSRVCYRGICSRRCRG,1.0,2.0,500.0
+906,5500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCR,1.0,2.0,5500.0
+907,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCRG,1.0,2.0,2500.0
+908,4500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCSRGSCYRRCRG,1.0,2.0,4500.0
+909,2000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCSRVCYRGICSRRCRG,1.0,2.0,2000.0
+910,3000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCR,1.0,2.0,3000.0
+911,1000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCRG,1.0,2.0,1000.0
+912,2000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCSRGSCYRRCRG,1.0,2.0,2000.0
+913,500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCSRVCYRGICSRRCRG,1.0,2.0,500.0
+914,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCR,1.0,2.0,2500.0
+915,1500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCYRGICYRRCRG,1.0,2.0,1500.0
+916,2000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCFRVCSRGSCYRRCRG,1.0,2.0,2000.0
+917,1000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KWCSRVCYRGICSRRCRG,1.0,2.0,1000.0
+918,9,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVVVVVGGGAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,9.0
+919,37,Relative fluorescence,42.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVVVVVGGGAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,37.0
+920,5,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVGGGGGGGAAAAAAAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,5.0
+921,8,Relative fluorescence,42.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVGGGGGGGAAAAAAAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,8.0
+922,8,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVVVVVGGGAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,8.0
+923,24,Relative fluorescence,42.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVVVVVGGGAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,24.0
+924,7,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVGGGGGGGAAAAAAAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,7.0
+925,10,Relative fluorescence,42.0,Flow cytometry,Cellular uptake,RGGRLSYSRRRFSTSTGRVPGVGGGGGGGAAAAAAAAGLPRHSAVMERLRRRIELCRRHHSTCEARYEAVSPERLELERQHTFALHQRCIQAKAKRAGKH,1.0,30.0,10.0
+926,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NGVQPKYKWWKWWKKWW-NH2,4.0,1.25,100.0
+927,200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NGVQPKYKWWKWWKKWW-NH2,4.0,2.5,200.0
+928,500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NGVQPKYKWWKWWKKWW-NH2,4.0,5.0,500.0
+929,800,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,NGVQPKYKWWKWWKKWW-NH2,4.0,10.0,800.0
+930,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,2.2,9.0,100.0
+931,300,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,1.0,9.0,300.0
+932,1000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,2.0,9.0,1000.0
+933,50,Mean Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,1.2,9.0,50.0
+934,50,Mean Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,1.0,9.0,50.0
+935,200,Mean Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,C37H66N7O17P3S-rrrrrrrrrrrr,2.0,9.0,200.0
+936,2.5,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,2.0,21.4,2.5
+937,3.5,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,4.0,39.0,3.5
+938,15000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.2,10.0,15000.0
+939,7000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.2,10.0,7000.0
+940,1000,Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.0,10.0,1000.0
+941,13000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.2,10.0,13000.0
+942,10000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.2,10.0,10000.0
+943,2900,Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.0,10.0,2900.0
+944,17000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.2,10.0,17000.0
+945,13000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.2,10.0,13000.0
+946,16000,Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,VQRKRQKLMPGLRKRLRKFRNK,2.0,10.0,16000.0
+947,21000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.2,10.0,21000.0
+948,7000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.2,10.0,7000.0
+949,7500,Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,YKQCHKKGGKKGSGGLRKRLRKFRNK,2.0,10.0,7500.0
+950,0.4,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,0.4
+951,0.38,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,0.38
+952,0.3,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,0.3
+953,1,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,1.0
+954,0.37,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,0.37
+955,0.35,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,2.2,10.0,0.35
+956,0.8,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,0.8
+957,0.75,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,0.75
+958,0.4,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,c[DKP-RGD]-PEG4-GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,0.4
+959,1.2,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,1.2
+960,0.43,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,0.43
+961,0.6,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GLRKRLRK(CF)FRNKIKEK-CONH2,1.0,10.0,0.6
+962,40,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR-Lip,4.0,39.0,40.0
+963,60,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-RGD-Lip,4.0,39.0,60.0
+964,80,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-EGR-Lip,4.0,39.0,80.0
+965,90,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-dGR-Lip,4.0,39.0,90.0
+966,10,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR-Lip,4.0,39.0,10.0
+967,20,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-RGD-Lip,4.0,39.0,20.0
+968,18,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-EGR-Lip,4.0,39.0,18.0
+969,25,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-dGR-Lip,4.0,39.0,25.0
+970,6,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRR-Lip,4.0,39.0,6.0
+971,7,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-RGD-Lip,4.0,39.0,7.0
+972,8,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-EGR-Lip,4.0,39.0,8.0
+973,9,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Cys-RRRRRRRR-dGR-Lip,4.0,39.0,9.0
+974,100,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S5)AKAL-NH2,4.0,25000.0,100.0
+975,100,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S8)AKAL-NH2,4.0,25000.0,100.0
+976,300,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-L(R8)KLAKA(R8)AKLLKA(R8)AKAL-NH2,4.0,25000.0,300.0
+977,100,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S5)AKAL-NH2,4.0,50000.0,100.0
+978,300,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S8)AKAL-NH2,4.0,50000.0,300.0
+979,1000,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-L(R8)KLAKA(R8)AKLLKA(R8)AKAL-NH2,4.0,50000.0,1000.0
+980,1000,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S5)AKAL-NH2,4.0,100000.0,1000.0
+981,1500,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S8)AKAL-NH2,4.0,100000.0,1500.0
+982,2500,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-L(R8)KLAKA(R8)AKLLKA(R8)AKAL-NH2,4.0,100000.0,2500.0
+983,5500,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S5)AKAL-NH2,4.0,200000.0,5500.0
+984,6000,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-LAKLAKA(R8)AKLLKA(S8)AKAL-NH2,4.0,200000.0,6000.0
+985,7000,Relative fluorescence,37.0,Fluorescence spectroscopy,Cellular uptake,H-L(R8)KLAKA(R8)AKLLKA(R8)AKAL-NH2,4.0,200000.0,7000.0
+986,150,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,LKPSFSPRNY,2.2,10.0,150.0
+987,80,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,KALSEVQGWKQRMAAKELAR,2.2,10.0,80.0
+988,150,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,KQRMAAKELAR,2.2,10.0,150.0
+989,2500,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,LKPSFSPRNY,2.2,10.0,2500.0
+990,2000,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,KALSEVQGWKQRMAAKELAR,2.2,10.0,2000.0
+991,2000,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,KQRMAAKELAR,2.2,10.0,2000.0
+992,70,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPR,12.4,1000.0,70.0
+993,50,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRGDRGPDC,12.4,1000.0,50.0
+994,60,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPRCRGDRGPDC,12.4,1000.0,60.0
+995,210,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPR,2.0,21.4,210.0
+996,160,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRGDRGPDC,2.0,21.4,160.0
+997,120,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPRCRGDRGPDC,2.0,21.4,120.0
+998,250,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPR,4.0,39.0,250.0
+999,230,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRGDRGPDC,4.0,39.0,230.0
+1000,200,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPRCRGDRGPDC,4.0,39.0,200.0
+1001,342.34,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPR,12.0,7.5,342.34
+1002,254.4,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRGDRGPDC,12.0,7.5,254.4
+1003,245.8,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RGERPPRCRGDRGPDC,12.0,7.5,245.8
+1004,30,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK,4.0,39.0,30.0
+1005,40,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-YSAYPDSVPMMS,4.0,39.0,40.0
+1006,110,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK,4.0,39.0,110.0
+1007,130,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKRRMKWKK-YSAYPDSVPMMS,4.0,39.0,130.0
+1008,200000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Dabcyl-RRRRRRK-Rho-NH2,6.5,2.5,200000.0
+1009,800000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Dabcyl-RRRRRRK-Rho-NH2,0.5,5.0,800000.0
+1010,1050000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,Dabcyl-RRRRRRK-Rho-NH2,2.2,10.0,1050000.0
+1011,0,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,H-RRRRRRK-Rho-NH2,6.5,2.5,0.0
+1012,5000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,H-RRRRRRK-Rho-NH2,0.5,5.0,5000.0
+1013,5000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,H-RRRRRRK-Rho-NH2,12.4,1000.0,5000.0
+1014,8,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GWWYKGRARPVSAVAK,1.0,5.0,8.0
+1015,1,Fluorescence intensity,4.0,Flow cytometry,Cellular uptake,GWWYKGRARPVSAVAK,1.0,5.0,1.0
+1016,14,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIILIIGSTSRDHMVLHEYVNAAGIT,0.5,5.0,14.0
+1017,4,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FLLIRRVLGSTSRDHMVLHEYVNAAGIT,0.5,5.0,4.0
+1018,3,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PWPRVPWRWGSTSRDHMVLHEYVNAAGIT,0.5,5.0,3.0
+1019,3,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,LKRAIWLIKGSTSRDHMVLHEYVNAAGIT,0.5,5.0,3.0
+1020,7,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FIDLKRKIWLIK,0.5,5.0,7.0
+1021,5,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YLKFIPLKDAIWKIK,0.5,5.0,5.0
+1022,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIILIIGSTSRDHMVLHEYVNAAGIT,0.5,2.0,1.0
+1023,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FLLIRRVLGSTSRDHMVLHEYVNAAGIT,0.5,2.0,1.0
+1024,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PWPRVPWRWGSTSRDHMVLHEYVNAAGIT,0.5,2.0,1.0
+1025,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,LKRAIWLIKGSTSRDHMVLHEYVNAAGIT,0.5,2.0,1.0
+1026,6,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FIDLKRKIWLIK,0.5,2.0,6.0
+1027,7,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YLKFIPLKDAIWKIK,0.5,2.0,7.0
+1028,13,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIILIIGSTSRDHMVLHEYVNAAGIT,2.0,2.0,13.0
+1029,4,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FLLIRRVLGSTSRDHMVLHEYVNAAGIT,2.0,2.0,4.0
+1030,7,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PWPRVPWRWGSTSRDHMVLHEYVNAAGIT,2.0,2.0,7.0
+1031,4,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,LKRAIWLIKGSTSRDHMVLHEYVNAAGIT,2.0,2.0,4.0
+1032,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FIDLKRKIWLIK,2.0,2.0,1.0
+1033,1,Normalized Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,YLKFIPLKDAIWKIK,2.0,2.0,1.0
+1034,3,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KIIIIDGSTSRDHVLHEYVNAAGIT,2.0,2.0,3.0
+1035,4,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KIILIIDGSTSRDHVLHEYVNAAGIT,2.0,2.0,4.0
+1036,16,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IILIIGSTSRDHVLHEYVNAAGIT,2.0,2.0,16.0
+1037,5,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MLILIIGSTSRDHVLHEYVNAAGIT,2.0,2.0,5.0
+1038,9,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MIILIIMGVADLIKKFESISKEE,2.0,2.0,9.0
+1039,15,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PLILLRLLRGSTSRDHVLHEYVNAAGIT,2.0,2.0,15.0
+1040,35,Median Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FIDIIIKILLIGSTSRDHVLHEYVNAAGIT,2.0,2.0,35.0
+1041,59,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,0.5,4.2,59.0
+1042,43,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,1.0,2.0,43.0
+1043,38,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,3.0,22.0,38.0
+1044,27,Relative fluorescence,34.6,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,6.0,5.0,27.0
+1045,20,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,12.0,60001.0,20.0
+1046,19,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,24.0,1000.0,19.0
+1047,-20,Relative fluorescence,37.0,CLSM,Cellular uptake,RRRRRRRR-H-NPs-siScr,48.0,1000.0,-20.0
+1048,8.00E+03,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,1.0,8000.0
+1049,9.00E+03,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,1.0,9000.0
+1050,1.20E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,1.0,12000.0
+1051,1.70E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,2.5,17000.0
+1052,2.00E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,2.5,20000.0
+1053,2.50E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,2.5,25000.0
+1054,3.50E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,5.0,35000.0
+1055,4.00E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,5.0,40000.0
+1056,4.00E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,XRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRRXRRRRRR,0.5,5.0,40000.0
+1057,20,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,SGASDDEEIAR,6.629761904761906,5309.534651404787,20.0
+1058,110,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,SGASDDEEIAR,1.0,2.0,110.0
+1059,130,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,SGASDDEEIAR,1.5,5.4,130.0
+1060,140,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,SGASDDEEIAR,2.0,1.8,140.0
+1061,90,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,ICSSHYEPTVRIGGR,6.629761904761906,5309.534651404787,90.0
+1062,135,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,ICSSHYEPTVRIGGR,1.0,2.0,135.0
+1063,150,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,ICSSHYEPTVRIGGR,1.5,5.4,150.0
+1064,170,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,ICSSHYEPTVRIGGR,2.0,1.8,170.0
+1065,18,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,2.0,1.0,18.0
+1066,18,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,4.0,1.0,18.0
+1067,19,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,6.0,1.0,19.0
+1068,12,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,24.0,1.0,12.0
+1069,13,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,2.0,1.0,13.0
+1070,14,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,4.0,1.0,14.0
+1071,12,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,6.0,1.0,12.0
+1072,8,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,24.0,1.0,8.0
+1073,25,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,2.0,1.0,25.0
+1074,30,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,4.0,1.0,30.0
+1075,23,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,6.0,1.0,23.0
+1076,30,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KSKTEYYNAWAVWERNAP,24.0,1.0,30.0
+1077,40,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,2.0,1.0,40.0
+1078,45,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,4.0,1.0,45.0
+1079,35,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,6.0,1.0,35.0
+1080,40,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GNGEQREMAVSRLRDCLDRQA,24.0,1.0,40.0
+1081,1400,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FFLIG-FFLIG-rrrrrrrrrrrr-NH2,3.6,40.0,1400.0
+1082,100,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKKRRQRRR,2.0,2.0,100.0
+1083,210,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,S5GRKS5RRQRRR,2.0,2.0,210.0
+1084,220,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,R8GRKKRRS5RRR,2.0,2.0,220.0
+1085,410,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKS5RRQS5RR,2.0,2.0,410.0
+1086,80,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKERRQKRR,2.0,2.0,80.0
+1087,370,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRAS5RRQS5RA,2.0,2.0,370.0
+1088,120,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRAS5RRQS5RA,2.0,2.0,120.0
+1089,25,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRAS5ARQS5RA,2.0,2.0,25.0
+1090,200,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKR8RRQS5RR,2.0,2.0,200.0
+1091,100,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKR8RRQXRR,2.0,2.0,100.0
+1092,90,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKS5RRQXRR,2.0,2.0,90.0
+1093,80,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,R8GRRKKRRS5RRR,2.0,2.0,80.0
+1094,100,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRKS5RRQS5RR,2.0,2.0,100.0
+1095,90,Relative Mean Fluorescence intensity (%),37.0,Flow cytometry,Cellular uptake,YGRAS5RRQS5RR,2.0,2.0,90.0
+1096,1400,Relative fluorescence,37.0,Flow cytometry,Cellular uptake,KCVRQNNKRVCKGLRKRLRKFRNK-NH2,2.2,10.0,1400.0
+1097,39,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,CF-glrkrlrkfrnkikek,3.4,25.0,39.0
+1098,40,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,CF-?A-glrk-?A?A-NIA-rlrkfrnk-?A?A-NIA-ikek,3.4,25.0,40.0
+1099,130,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,CF-glrkrlrkfrnkikek,4.2,50.0,130.0
+1100,150,Relative fluorescence,37.0,Fluorescent Microscopy,Cellular uptake,CF-?A-glrk-?A?A-NIA-rlrkfrnk-?A?A-NIA-ikek,4.2,50.0,150.0
+1101,125,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RAGLQFPVGRLLRRL,3.0,10.0,125.0
+1102,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RAGLQFPVGRLLRRL,3.0,10.0,100.0
+1103,4000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IWLTALKFLGKHAAKHEAKQQLSKL,6.0,15.4,4000.0
+1104,384.8,Fluorescence intensity,35.051797040169134,Fluorescent Microscopy,Cellular uptake,AcHGLASTLTRWAHYNALIRAFC-CONH2,6.629761904761906,5309.534651404787,384.8
+1105,656.2,Fluorescence intensity,35.051797040169134,Fluorescent Microscopy,Cellular uptake,AcHGLASTLTRWAHYNALIRAFC-CONH2,6.629761904761906,5309.534651404787,656.2
+1106,5,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,5.0
+1107,10,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,10.0
+1108,15.67,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,15.67
+1109,5,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,5.0
+1110,12,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,12.0
+1111,19.6,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,4.0,39.0,19.6
+1112,97.2,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,97.2
+1113,44.1,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,44.1
+1114,59.7,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,59.7
+1115,57,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,57.0
+1116,10.3,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,10.3
+1117,18,Fluorescence intensity (%),37.0,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,12.4,1000.0,18.0
+1118,18,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRRR,4.0,10.0,18.0
+1119,35,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRRR,4.0,25.0,35.0
+1120,50,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRRR,4.0,50.0,50.0
+1121,20,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AEQNPIYWARYADWLFTTPLLLLDLALLVDADEGTCG,3.0,7.0,20.0
+1122,40,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AEQNPIYWARYADWLFTTPLLLLDLALLVDADEGTCG,3.0,7.0,40.0
+1123,24,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AEQNPIYWARYADWLFTTPLLLLDLALLVDADEGTCG,3.0,7.0,24.0
+1124,35,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AEQNPIYWARYADWLFTTPLLLLDLALLVDADEGTCG,3.0,7.0,35.0
+1125,3000,Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KPKRKRRKKKGHGWSR,1.0,2.5,3000.0
+1126,5000,Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KPKRKRRKKKGHGWSR,1.0,5.0,5000.0
+1127,5200,Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KPKRKRRKKKGHGWSR,1.0,7.5,5200.0
+1128,5800,Fluorescence intensity,37.0,Fluorescence spectroscopy,Cellular uptake,KPKRKRRKKKGHGWSR,1.0,10.0,5800.0
+1129,17,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KETWWETWWTEWSQPKKKRKVC,2.0,21.4,17.0
+1130,8,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KETWWETWWTEWSQPKKKRKVC,2.0,21.4,8.0
+1131,7.50E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,DEN-K(WEAALAEALAEALAEHLAEALAEALEALAA)-GRKKRRQRRRPPQ-K(STR),4.0,39.0,750000.0
+1132,2.25,Fluorescence intensity,28.0,Flow cytometry,Cellular uptake,RILSILRHQ,2.0,4.6,2.25
+1133,2200,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,0.5,5.0,2200.0
+1134,200,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,0.5,5.0,200.0
+1135,1500,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,0.5,5.0,1500.0
+1136,2200,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,0.5,5.0,2200.0
+1137,500,Mean Fluorescence intensity,37.0,CLSM,Cellular uptake,RRRRRRRR,0.5,5.0,500.0
+1138,40,Relative fluorescence (%),37.0,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,1.0,6.0,40.0
+1139,38,Relative fluorescence (%),37.0,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,1.0,6.0,38.0
+1140,49,Relative fluorescence (%),37.0,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,1.0,6.0,49.0
+1141,75,Relative fluorescence (%),37.0,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,1.0,6.0,75.0
+1142,55,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KKAAPAKKAAAKKAPAKKAAAKK,1.0,3.0,55.0
+1143,30,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KKAAPAKKAAAKKAPAKKAAAKK,1.0,3.0,30.0
+1144,20,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,KKAAPAKKAAAKKAPAKKAAAKK,1.0,3.0,20.0
+1145,1000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,WRWRWRWRWR,3.0,25.0,1000.0
+1146,200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRC,3.0,25.0,200.0
+1147,700,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRC,3.0,25.0,700.0
+1148,1050,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRWRC,3.0,25.0,1050.0
+1149,1100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRWRC,3.0,25.0,1100.0
+1150,550,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRR-Ac6cNH2-RR-Ac6cNH2-RR-Ac6cNH2-NH2,2.0,2.0,550.0
+1151,400,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRR-Ac5cNH2-RR-Ac5cNH2-RR-Ac5cNH2-NH2,2.0,2.0,400.0
+1152,2600,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRRRRRRRRR-NH2,2.0,2.0,2600.0
+1153,110,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRR-Ac6cNH2-RR-Ac6cNH2-RR-Ac6cNH2-NH2,2.0,2.0,110.0
+1154,1200,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRR-Ac5cNH2-RR-Ac5cNH2-RR-Ac5cNH2-NH2,2.0,2.0,1200.0
+1155,2800,Mean Fluorescence intensity,37.0,Flow cytometry,Intracellular levels of peptides,CF-GRRRRRRRRR-NH2,2.0,2.0,2800.0
+1156,16,Mean Fluorescence intensity,31.0,Flow cytometry,Cellular uptake,?A1a-ERLRRRI-S5-LCR-S5-HHST,0.7,5.0,16.0
+1157,3,Mean Fluorescence intensity,31.0,Flow cytometry,Cellular uptake,RRWPRXILDXHVRRVWR,0.7,5.0,3.0
+1158,90,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KLXLKLXLKXLKAXLKLXGC,8.0,2.5,90.0
+1159,50,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KLXLKLXLKXLKAXLKLXGC,8.0,2.5,50.0
+1160,20,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KLXLKLXLKXLKACLKLXG,8.0,2.5,20.0
+1161,92,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KCXLKLXLKXLKACLKLXG,8.0,2.5,92.0
+1162,5,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KLXLKLXCKXLKACLKLXG,8.0,2.5,5.0
+1163,15,Mean Fluorescence intensity/mg protein,37.0,Fluorometer,Cellular uptake,KCXLKLXCKXLKACLKLXG,8.0,2.5,15.0
+1164,9,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GRKKRRQRRRPQ,0.25,6.0,9.0
+1165,2000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CPKKKRKVEDPGGRKKRRQRRRPQ,4.0,39.0,2000.0
+1166,2100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CPKKKRKVEDPGGRKKRRQRRRPQGREDV,4.0,39.0,2100.0
+1167,7000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,REDVGRKKRRQRRRPQCPKKKRKVEDPHHHHHHHHHHHH,4.0,39.0,7000.0
+1168,40,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PFVYL-Cou6,1.0,20006.4,40.0
+1169,90,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,PFVYL-Lip-Cou6,1.0,20006.4,90.0
+1170,350,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,HHHHHH-RRRRRRRRRRR,1.0,20006.4,350.0
+1171,800,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,HHHHHH-RRRRRRRRRRR,2.0,21.4,800.0
+1172,1050,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,HHHHHH-RRRRRRRRRRR,4.0,39.0,1050.0
+1173,0.3,Fluorescence intensity,37.0,CLSM,Cellular uptake,GLFHALLHLLHSLWHLLLHA,2.2,30.0,0.3
+1174,0.5,Fluorescence intensity,37.0,CLSM,Cellular uptake,GLFHALLHLLHSLWHLLLHA,2.2,30.0,0.5
+1175,0.6,Fluorescence intensity,37.0,CLSM,Cellular uptake,GLFHALLHLLHSLWHLLLHA,2.2,30.0,0.6
+1176,1.3,Fluorescence intensity,37.0,CLSM,Cellular uptake,GLFHALLHLLHSLWHLLLHA,2.2,30.0,1.3
+1177,1.5,Fluorescence intensity,37.0,CLSM,Cellular uptake,GLFHALLHLLHSLWHLLLHA,2.2,30.0,1.5
+1178,3800,Relative Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRQIKIWFQNRRMKWKK,24.0,10.0,3800.0
+1179,90,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,CGRRMKWKKXXXXGGGGEEEERRRR,6.629761904761906,5309.534651404787,90.0
+1180,110,Mean Fluorescence intensity,35.051797040169134,Flow cytometry,Cellular uptake,CGRRMKWKKXXXXGGGGEEEERRRR,6.629761904761906,5309.534651404787,110.0
+1181,11000,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,WEAKLAKALAKALAKHLAKALAKALK,2.0,1.8,11000.0
+1182,12000,Geo Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,WEAKLAKALAKALAKHLAKALAKALK,2.0,1.8,12000.0
+1183,0.4,Fluorescence intensity,25.0,CLSM,Dox encapsulation,AIAKAXKIA,6.0,10.0,0.4
+1184,0.6,Fluorescence intensity,25.0,CLSM,Dox encapsulation,AIAKAXKIA,6.0,20.0,0.6
+1185,0.8,Fluorescence intensity,25.0,CLSM,Dox encapsulation,AIAKAXKIA,6.0,50.0,0.8
+1186,1.50E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FITC-A?-GG-(P-Hyp-G)8-RRGRRG,2.0,15.0,15000.0
+1187,2.40E+04,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FITC-A?-GG-(P-Hyp-G)8-RRGRRG,5.7,30.0,24000.0
+1188,5.00E+05,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FITC-A?-GG-(P-Hyp-G)8-RRGRRG,5.2,90.0,500000.0
+1189,1600,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHINLHHLAHL(Aib)HHIL-NH2,1.0,5.0,1600.0
+1190,1700,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHINLHHLAHL(Aib)HHIL-NH2,1.0,5.0,1700.0
+1191,2750,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHINLHHLAHL(Aib)HHIL-NH2,1.0,5.0,2750.0
+1192,1550,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHMINLHMHMLAHML(Aib)HMHMIL-NH2,1.0,5.0,1550.0
+1193,1600,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHMINLHMHMLAHML(Aib)HMHMIL-NH2,1.0,5.0,1600.0
+1194,1900,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHMINLHMHMLAHML(Aib)HMHMIL-NH2,1.0,5.0,1900.0
+1195,1200,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHEINLHEHELAHEL(Aib)HEHEIL-NH2,1.0,5.0,1200.0
+1196,1100,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHEINLHEHELAHEL(Aib)HEHEIL-NH2,1.0,5.0,1100.0
+1197,2250,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHEINLHEHELAHEL(Aib)HEHEIL-NH2,1.0,5.0,2250.0
+1198,1750,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHIINLHIHILAHIL(Aib)HIHIIL-NH2,1.0,5.0,1750.0
+1199,1500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHIINLHIHILAHIL(Aib)HIHIIL-NH2,1.0,5.0,1500.0
+1200,2250,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHIINLHIHILAHIL(Aib)HIHIIL-NH2,1.0,5.0,2250.0
+1201,2200,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHBINLHBHBLAHBL(Aib)HBHBIL-NH2,1.0,5.0,2200.0
+1202,2800,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHBINLHBHBLAHBL(Aib)HBHBIL-NH2,1.0,5.0,2800.0
+1203,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,AGYLLGHBINLHBHBLAHBL(Aib)HBHBIL-NH2,1.0,5.0,2500.0
+1204,155,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRGGRRRRRRSVCSSCVSRRRRRRGGRRRR,6.0,15.4,155.0
+1205,15,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRGGRRRRRRSVCSSCVSRRRRRRGGRRRR,6.0,15.4,15.0
+1206,10,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRGGRRRRRRSVCSSCVSRRRRRRGGRRRR,6.0,15.4,10.0
+1207,3,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRGGRRRRRRSVCSSCVSRRRRRRGGRRRR,6.0,15.4,3.0
+1208,3,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRGGRRRRRRSVCSSCVSRRRRRRGGRRRR,6.0,15.4,3.0
+1209,100,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,4.0,4.5,100.0
+1210,350,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,18.0,2.5,350.0
+1211,8000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRK,3.0,50.0,8000.0
+1212,6000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRK,3.0,50.0,6000.0
+1213,13000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRK,3.0,50.0,13000.0
+1214,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CWRWRWRWRK,3.0,50.0,5000.0
+1215,5500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GPLGIAGQrrrrrrrrr,4.0,39.0,5500.0
+1216,9000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,GPLGIAGQrrrrrrrrr,4.0,39.0,9000.0
+1217,40,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CH3(CH2)16-CONH-RRRRRRRR,4.0,39.0,40.0
+1218,48,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CH3(CH2)16-CONH-RRRRRRRR,4.0,39.0,48.0
+1219,45,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CH3(CH2)16-CONH-RRRRRRRRRR,4.0,39.0,45.0
+1220,50,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CH3(CH2)16-CONH-RRRRRRRRRR,4.0,39.0,50.0
+1221,10000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,10000.0
+1222,20000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,20000.0
+1223,80000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,80000.0
+1224,3500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,3500.0
+1225,4500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,4500.0
+1226,6000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,6000.0
+1227,1800,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,1800.0
+1228,2300,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,2300.0
+1229,2600,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,MAGCGCPCGCGA,16.0,41.0,2600.0
+1230,100,Relative fluorescence (%),37.0,Flow cytometry,Cellular uptake,Acetyl-RLWRLLWRLWRRLWRLLR-NH2,4.0,39.0,100.0
+1231,95,Relative fluorescence (%),37.0,Flow cytometry,Cellular uptake,DEG-RLWRLLWRLWRRLWRLLR-NH2,4.0,39.0,95.0
+1232,1000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RC-PEG-b-PCL,24.0,1000.0,1000.0
+1233,2500,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRC-PEG-b-PCL,24.0,1000.0,2500.0
+1234,8000,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRRRC-PEG-b-PCL,24.0,1000.0,8000.0
+1235,1500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRLRVG,3.0,22.0,1500.0
+1236,25,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FKKLKKLFSKLWNWK,3.6,16.0,25.0
+1237,35,Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,FKKLKKLFSKLWNWKCRGDKGPDC,3.6,16.0,35.0
+1238,8000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRHHHH,3.0,10.0,8000.0
+1239,11000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,RRRRRRHHHH,3.0,10.0,11000.0
+1240,2300,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,4.0,39.0,2300.0
+1241,2200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,8.0,40016.0,2200.0
+1242,2000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,4.0,39.0,2000.0
+1243,2200,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,8.0,40016.0,2200.0
+1244,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,4.0,39.0,3000.0
+1245,3400,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CKIKKVKKKGRKKIKKVKKKGRK,8.0,40016.0,3400.0
+1246,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGNKRTR,4.0,39.0,120.0
+1247,20,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGNARTA,4.0,39.0,20.0
+1248,1800,Fluorescence intensity,37.0,Flow cytometry,Intracellular uptake,YGRKKRRQRRR,2.0,1.8,1800.0
+1249,800,Fluorescence intensity,37.0,Flow cytometry,Intracellular uptake,YGRKKRRQRRR,2.0,1.8,800.0
+1250,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IFLLWQ,12.4,1000.0,5000.0
+1251,10000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IFLLWQ,1.0,20006.4,10000.0
+1252,16000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IFLLWQ,2.0,21.4,16000.0
+1253,17000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,IFLLWQ,4.0,39.0,17000.0
+1254,1000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGPKKKRKVGYGRKKRRQRRR,4.0,39.0,1000.0
+1255,5000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGPKKKRKVGYGRKKRRQRRR,4.0,39.0,5000.0
+1256,3800,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGPKKKRKVGYGRKKRRQRRR,4.0,39.0,3800.0
+1257,3500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGPKKKRKVGYGRKKRRQRRR,4.0,39.0,3500.0
+1258,3000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CGPKKKRKVGYGRKKRRQRRR,4.0,39.0,3000.0
+1259,130000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQWRIRVAVIRK,4.0,4.5,130000.0
+1260,140000,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,VQWRIRVAVIRK,4.0,4.5,140000.0
+1261,42,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,5.0,42.0
+1262,78,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,10.0,78.0
+1263,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,15.0,100.0
+1264,115,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,20.0,115.0
+1265,120,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,25.0,120.0
+1266,130,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular uptake,CRRRRRRRRVKRKKKP,1.0,30.0,130.0
+1267,14000,Mean Fluorescence intensity,37.0,Flow cytometry,QD internalization,ELYENKPRRPYIL,2.8,20.0,14000.0
+1268,9000,Mean Fluorescence intensity,37.0,Flow cytometry,QD internalization,ELYENKPRRPYIL,2.2,10.0,9000.0
+1269,5000,Mean Fluorescence intensity,37.0,Flow cytometry,QD internalization,ELYENKPRRPYIL,0.5,5.0,5000.0
+1270,1000,Mean Fluorescence intensity,37.0,Flow cytometry,QD internalization,ELYENKPRRPYIL,5.8,1.0,1000.0
+1271,5000,Relative fluorescence,34.6,Flow cytometry,Cellular uptake,P(LAEMA37)-b-P(FPMA2-st-DMA2)-KRRKRRRRRK,6.0,5.0,5000.0
+1272,4800,Relative fluorescence,34.6,Flow cytometry,Cellular uptake,P(LAEMA23-st-FPMA3)-KRRKRRRRRK,6.0,5.0,4800.0
+1273,5500,Relative fluorescence,34.6,Flow cytometry,Cellular uptake,P(LAEMA25-st-FPMA2-st-DMA2)-KRRKRRRRRK,6.0,5.0,5500.0
+1274,500,Mean Fluorescence intensity,30.4,Flow cytometry,Cellular uptake,KrKiFcL,4.0,10.0,500.0
+1275,400,Mean Fluorescence intensity,30.4,Flow cytometry,Cellular uptake,kRkIfCl,4.0,10.0,400.0
+1276,800,Mean Fluorescence intensity,30.4,Flow cytometry,Cellular uptake,KrKfIcL,4.0,10.0,800.0
+1277,2000,Mean Fluorescence intensity,30.4,Flow cytometry,Cellular uptake,kRkFiCl,4.0,10.0,2000.0
+1278,10,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,HRHRHRHR,24.0,50000.0,10.0
+1279,50,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,RHRHRHRHR,24.0,50000.0,50.0
+1280,100,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,RRHRHRHRHR,24.0,50000.0,100.0
+1281,250,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,RRRHRHRHRHR,24.0,50000.0,250.0
+1282,400,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,RRRRHRHRHRHR,24.0,50000.0,400.0
+1283,500,Mean Fluorescence intensity,37.0,Flow cytometry,Cellular internalization of oleyl,RRRRRHRHRHRHR,24.0,50000.0,500.0
